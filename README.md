@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# Ponto Verde
 
-`CURSO`
+## Análise e Desenvolvimento de Software - PUC MINAS
 
-`DISCIPLINA`
+### Projeto - Desenvolvimento de uma aplicação web front-end
 
-`SEMESTRE`
+#### 1º SEMESTRE
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
