@@ -33,9 +33,9 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |José da Silva       | Solicitar coleta de lixo reciclável                           | Por não possuir meio adequado de transportar o lixo             |
 |José da Silva       | Obter selo empresa sustentável                                | Melhorar a imagem da empresa e redução de impostos              |
 |Maria Gomes         | Distribuir cestos seletivos para os moradores                 | Facilitar a separação dos resíduos recicláveis e não recicláveis|
-| Maria Gomes        | Se informar sobre horários de coleta                          |  Ajudar na logística de reciclagem do condomínio                |
+| Maria Gomes        | Se informar sobre horários de coleta                          |  Ajudar na logística de reciclagem do condomínio               |
 | Marcio Santos      | Se informar sobre técnicas de adubagem com materiais orgânicos| Diminuir os materiais orgânicos reaproveitando em forma de adubo| 
-| Marcio Santos      | Manter um registro de quantidade de resíduos reciclados       |Para facilitar o controle do volume de lixo reciclado            | 
+| Marcio Santos      | Manter um registro de quantidade de resíduos reciclados       |Para facilitar o controle do volume de lixo reciclado             |
 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
