@@ -8,18 +8,18 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 | José da Silva      |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|**![](https://lh5.googleusercontent.com/jE99iyrjsZ-JBLc-I0Y6SsSMUpQLZOVBKNH_xYB9hMGyq2ziqSA_CLZWjW8yiE1RnRTQG5Pkgey40DDEIP8jhEnG4LIGzanrzpQc0oPiUT6bIk-TmCr0pfRT5xhyLxB_3QW0E5uo)**|**Idade:** 52 anos <p>**Ocupação:** Empresário, dono de um estabelecimento comercial que atua com vendas de produtos a granel e sem embalagens. |**Tipos de lixo produzido**: -Papel, Plástico, Papelão, Vidros, Orgânicos.|
+|**![](https://lh5.googleusercontent.com/jE99iyrjsZ-JBLc-I0Y6SsSMUpQLZOVBKNH_xYB9hMGyq2ziqSA_CLZWjW8yiE1RnRTQG5Pkgey40DDEIP8jhEnG4LIGzanrzpQc0oPiUT6bIk-TmCr0pfRT5xhyLxB_3QW0E5uo)**|**Idade:** 52 anos <br><br> **Ocupação:** Empresário, dono de um estabelecimento comercial que atua com vendas de produtos a granel e sem embalagens. |**Tipos de lixo produzido**: -Papel, Plástico, Papelão, Vidros, Orgânicos.|
 |**Incentivos:**  Redução de impostos, Selo empresa sustentável, Economia.  |**Obstáculos:** Falta de informação, Falta de incentivo financeiro, Burocracia. |**Quantidade de pessoas/funcionários:** 4| 
 
-| Maria Gomes      |                                    |                |
+| Maria Gomes        |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|**![](https://lh3.googleusercontent.com/idjh1Chmfl_jsmulAoX71OtV62ODlA8rFCrGPVOEyAKscfy6cmcTHJlFrtn8QS__9VMGhg3dUl1rALB07IjCA-8xEXVWER6fm7msYW-h0WPt_ItF4NgmWGylC2KNu0_mqdGIe2L3)**|**Idade:** 60 anos <p> **Ocupação:** Engenheira aposentada, síndica de um condomínio de luxo com mais de 60 apartamentos. |**Tipos de lixo produzido**: -Orgânicos, Papel, Plástico, Papelão, Vidros.|
+|**![](https://lh3.googleusercontent.com/idjh1Chmfl_jsmulAoX71OtV62ODlA8rFCrGPVOEyAKscfy6cmcTHJlFrtn8QS__9VMGhg3dUl1rALB07IjCA-8xEXVWER6fm7msYW-h0WPt_ItF4NgmWGylC2KNu0_mqdGIe2L3)**|**Idade:** 60 anos <br><br>  **Ocupação:** Engenheira aposentada, síndica de um condomínio de luxo com mais de 60 apartamentos. |**Tipos de lixo produzido**: -Orgânicos, Papel, Plástico, Papelão, Vidros.|
 |**Incentivos:**  Redução do IPTU, Preservação do meio ambiente.  |**Obstáculos:** Falta de logística, Falta de informação |**Quantidade de pessoas/funcionários:** 180| 
 
-| Marcio Santos     |                                    |                |
+| Marcio Santos      |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|****![](https://lh4.googleusercontent.com/jKePMYEcD6TGWaidQKK1_hue52hklkWGgyVpxGJe-mtcqk6tJjxQADQVXwMiJVhi_r9tmF186sVoA-htxE35xX0DcXgdkrNLhd7_zF8rDuyLddDheMEwrds8dehQjmg000Yp9GmE)****|**Idade:** 40 anos <p> **Ocupação:** Advogado, dono de uma horta/sitio de orgânicos. |**Tipos de lixo produzido**:  Papel, Plástico, Vidros, Orgânicos.|
-|**Incentivos:** Reaproveitamento do <br>lixo orgânico em forma <br> de adubo, Diminuir o acúmulo de lixo. |**Obstáculos:** Distância até o local de coleta, Transporte dos resíduos. |**Quantidade de pessoas/funcionários:** 12| 
+|**![](https://lh4.googleusercontent.com/jKePMYEcD6TGWaidQKK1_hue52hklkWGgyVpxGJe-mtcqk6tJjxQADQVXwMiJVhi_r9tmF186sVoA-htxE35xX0DcXgdkrNLhd7_zF8rDuyLddDheMEwrds8dehQjmg000Yp9GmE)**|**Idade:** 40 anos <br><br>  **Ocupação:** Advogado, dono de uma horta/sitio de orgânicos. |**Tipos de lixo produzido**:  Papel, Plástico, Vidros, Orgânicos.|
+|**Incentivos:** <br> Reaproveitamento do lixo orgânico <br> em forma de adubo, Diminuir o acúmulo de lixo. |**Obstáculos:** Distância até o local de coleta, Transporte dos resíduos. |**Quantidade de pessoas/funcionários:** 12| 
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -64,17 +64,20 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF01| O site deve apresentar na página principal os conteúdos referentes ao nome do site, serviços e os propósitos envolvidos no processo da reciclagem. | Alta |
-|RF02| O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região | Média |
-|RF03| O site deve apresentar uma página de histórico(log) de todas coletas e reciclagens realizadas | Média |
+|RF02| O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região. | Média |
+|RF03| O site deve apresentar uma página de histórico(log) de todas coletas e reciclagens realizadas. | Média |
 |RF04| O site deve apresentar funcionalidade de login e cadastro de usuários. | Alta |
-|RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável | Alta |
-|RF06|  O site deve conter uma tabela com horários de coleta de  lixo naquela região|
-       O site deve fornecer dicas e técnicas sobre como separar o lixo para destinar à reciclagem, assim como informações educativas sobre sustentabilidade.|
+|RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável. | Alta |
+|RF06| O site deve conter uma tabela com horários de coleta de  lixo naquela região | Média |
+|RF07| O site deve fornecer dicas e técnicas sobre como separar o lixo para destinar à reciclagem, assim como informações educativas sobre sustentabilidade.| Alta |
        O site deve direcionar informações sobre a venda de cestos seletivos. |
        O site deve informar os benefícios e requisitos para obtenção do selo verde. |  
        O site deve apresentar notícias atualizadas sobre reciclagem. |
-       O usuário deve poder comentar as notícias.|Baixa|
+       O usuário deve poder comentar as notícias. | Baixa | 
+
+
 ### Requisitos não Funcionaiss
+
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
