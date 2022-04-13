@@ -1,13 +1,15 @@
 # Introdução
+A reciclagem é uma maneira de reduzir a quantidade de lixo produzida e de diminuir o desperdício de matérias-primas e energia. Todos os anos, o Brasil gera milhões de toneladas de lixo, que são enviadas para aterros sanitários. Alguns resíduos de lixo poluem a terra e o ar. Quando reciclamos, o que seria jogado fora é reaproveitado e transformado em novos produtos. A reciclagem é um dos principais elementos do conceito de sustentabilidade.
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O lixo é um problema que afeta um país como um todo, abrange tanto governo federal, estadual quanto municipal, no qual enfrentam dificuldades relacionadas ao descarte do lixo produzido. Cada vez mais pessoas têm o interesse na contribuição à preservação ambiental, mas muitas das vezes não sabem o descarte correto, passos importantes são a Reciclagem, Sustentabilidade, Consumo Consciente.
+ 
+De acordo com a Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais 30% de todo o lixo produzido pelo Brasil pode ser reaproveitado, porém apenas 3% é reaproveitado realmente. Isso indica que há espaço para melhorias em como as pessoas e empresas devem lidar com o lixo produzido.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
+O problema que se busca resolver, é a dificuldade de acesso da população a informações sobre reciclagem, sustentabilidade e seus benefícios. Assim como a falta de incentivos, restrição ao transporte de resíduos, falta de acesso aos cestos seletivos e contato direto com empresas que trabalham com com a coleta de resíduos recicláveis.
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,26 +18,35 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo é a criação de um portal de informações que ajude os usuários a direcionar corretamente os resíduos recicláveis e informar  sobre sustentabilidade e consumo consciente.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos destacar:
+⦁    Fornecer o contato direto com responsáveis pela coleta do lixo reciclável;
+⦁    Instruir como separar corretamente os resíduos recicláveis entre eles.
+⦁    Fornecer informações sobre a importância do consumo consciente e
+     sustentabilidade. 
+⦁    Alertar o impacto causado pela má gestão dos resíduos produzidos em grande      
+     escala. 
+⦁    Incentivar, proporcionando benefícios para quem recicla. 
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A reciclagem é importante porque reduz a poluição do ar, da água e do solo, bem como ajuda a proteger os recursos naturais, como as árvores, os minérios e o petróleo. Além disso, gera empregos e estimula a criatividade e a responsabilidade. 
+No Brasil, algumas pessoas vivem da coleta de material para reciclagem, especialmente papel e latas de alumínio. Embora a reciclagem de alumínio não seja obrigatória por lei no país, o Brasil vem se mantendo em primeiro lugar na reciclagem desse material desde 2001.
+Além da reciclagem, a reutilização é outra forma de evitar o acúmulo de lixo. Diversas campanhas para a reutilização de sacolas plásticas, por exemplo, têm surgido nas últimas décadas. As garrafas pet podem ser reutilizadas por pessoas que inventam outros objetos com elas, quanto recicladas por indústrias que as utilizam para fabricar outros produtos, como tecidos e ladrilhos para revestimento de paredes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Todas as pessoas que tenham interesse em reciclar podem se beneficiar com as informações do portal, porém o foco deste trabalho está no público que gera um grande volume de lixo, como indústrias, empresas, condomínios e estabelecimentos comerciais.
+Desta forma, estabeleceu-se como público-alvo desta solução qualquer pessoa interessada em reciclar, que busca se informar e conscientizar sobre os benefícios do processo de reciclagem, e também pessoas jurídicas que buscam se adequar ecologicamente aos processos de sustentabilidade com foco no desenvolvimento econômico e a conservação ambiental. 
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
