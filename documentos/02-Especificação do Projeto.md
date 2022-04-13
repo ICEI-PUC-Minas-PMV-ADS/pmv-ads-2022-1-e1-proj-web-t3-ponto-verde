@@ -6,7 +6,7 @@ Os detalhes levantados nesse processo foram consolidados na forma de personas e 
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-![image](https://user-images.githubusercontent.com/100734910/163198861-b593dd30-bd4a-4047-a475-e18b1299f985.png)
+![image](https://user-images.githubusercontent.com/100734910/163199597-f3f99b3a-3179-4e50-84c1-afa39003614d.png)
 
 ![image](https://user-images.githubusercontent.com/100734910/163199231-324aff66-eede-474a-af31-c80c4c39b409.png)
 
