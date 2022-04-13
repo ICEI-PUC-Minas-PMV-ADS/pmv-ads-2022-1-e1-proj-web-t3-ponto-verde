@@ -1,12 +1,12 @@
-# Ponto Verde
+># Ponto Verde
 
-## Análise e Desenvolvimento de Software - PUC MINAS
+>## Análise e Desenvolvimento de Software - PUC MINAS
 
-### Projeto - Desenvolvimento de uma aplicação web front-end
+>### Projeto - Desenvolvimento de uma aplicação web front-end
 
-#### 1º SEMESTRE
+>#### Eixo 1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto trata-se do desenvolvimento de um site responsivo e funcional para a questão da reciclagem, da conscientização de sua importância, da correta forma do descarte de resíduos, das informações inerentes à logística, sustentabilidade, pontos de descarte, estatísticas, dicas e sugestões para os indivíduos e empresas que sentirem necessidade e interesse pelo processo da reciclagem. 
 
 ## Integrantes
 
