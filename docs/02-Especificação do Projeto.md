@@ -6,7 +6,12 @@ Os detalhes levantados nesse processo foram consolidados na forma de personas e 
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-![image](https://user-images.githubusercontent.com/100734910/163199597-f3f99b3a-3179-4e50-84c1-afa39003614d.png)
+| José da Silva      |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|**![](https://lh5.googleusercontent.com/jE99iyrjsZ-JBLc-I0Y6SsSMUpQLZOVBKNH_xYB9hMGyq2ziqSA_CLZWjW8yiE1RnRTQG5Pkgey40DDEIP8jhEnG4LIGzanrzpQc0oPiUT6bIk-TmCr0pfRT5xhyLxB_3QW0E5uo)**|**Idade:** 52 anos <p>**Ocupação:** Empresário, dono de um estabelecimento comercial que atua com vendas de produtos a granel e sem embalagens. |**Tipos de lixo produzido**: -Papel, Plástico, Papelão, Vidros, Orgânicos.|
+|**Incentivos:**  Redução de impostos, Selo empresa sustentável, Economia.  |**Obstáculos:** Falta de informação, Falta de incentivo financeiro, Burocracia. |**Quantidade de pessoas/funcionários:** 4| 
+
+
 
 ![image](https://user-images.githubusercontent.com/100734910/163199231-324aff66-eede-474a-af31-c80c4c39b409.png)
 
