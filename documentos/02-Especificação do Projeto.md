@@ -1,7 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
@@ -10,8 +8,11 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ![image](https://user-images.githubusercontent.com/100734910/163198861-b593dd30-bd4a-4047-a475-e18b1299f985.png)
 
+![image](https://user-images.githubusercontent.com/100734910/163199231-324aff66-eede-474a-af31-c80c4c39b409.png)
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+![image](https://user-images.githubusercontent.com/100734910/163199325-b70053a8-8908-4d63-b5f8-bda2753ac624.png)
+
+
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
