@@ -11,13 +11,15 @@ As personas levantadas durante o processo de entendimento do problema são apres
 |**![](https://lh5.googleusercontent.com/jE99iyrjsZ-JBLc-I0Y6SsSMUpQLZOVBKNH_xYB9hMGyq2ziqSA_CLZWjW8yiE1RnRTQG5Pkgey40DDEIP8jhEnG4LIGzanrzpQc0oPiUT6bIk-TmCr0pfRT5xhyLxB_3QW0E5uo)**|**Idade:** 52 anos <p>**Ocupação:** Empresário, dono de um estabelecimento comercial que atua com vendas de produtos a granel e sem embalagens. |**Tipos de lixo produzido**: -Papel, Plástico, Papelão, Vidros, Orgânicos.|
 |**Incentivos:**  Redução de impostos, Selo empresa sustentável, Economia.  |**Obstáculos:** Falta de informação, Falta de incentivo financeiro, Burocracia. |**Quantidade de pessoas/funcionários:** 4| 
 
+| Maria Gomes      |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|**![](https://lh3.googleusercontent.com/idjh1Chmfl_jsmulAoX71OtV62ODlA8rFCrGPVOEyAKscfy6cmcTHJlFrtn8QS__9VMGhg3dUl1rALB07IjCA-8xEXVWER6fm7msYW-h0WPt_ItF4NgmWGylC2KNu0_mqdGIe2L3)**|**Idade:** 60 anos <p> **Ocupação:** Engenheira aposentada, síndica de um condomínio de luxo com mais de 60 apartamentos. |**Tipos de lixo produzido**: -Orgânicos, Papel, Plástico, Papelão, Vidros.|
+|**Incentivos:**  Redução do IPTU, Preservação do meio ambiente.  |**Obstáculos:** Falta de logística, Falta de informação |**Quantidade de pessoas/funcionários:** 180| 
 
-
-![image](https://user-images.githubusercontent.com/100734910/163199231-324aff66-eede-474a-af31-c80c4c39b409.png)
-
-![image](https://user-images.githubusercontent.com/100734910/163199325-b70053a8-8908-4d63-b5f8-bda2753ac624.png)
-
-
+| Marcio Santos     |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|****![](https://lh4.googleusercontent.com/jKePMYEcD6TGWaidQKK1_hue52hklkWGgyVpxGJe-mtcqk6tJjxQADQVXwMiJVhi_r9tmF186sVoA-htxE35xX0DcXgdkrNLhd7_zF8rDuyLddDheMEwrds8dehQjmg000Yp9GmE)****|**Idade:** 40 anos <p> **Ocupação:** Advogado, dono de uma horta/sitio de orgânicos. |**Tipos de lixo produzido**:  Papel, Plástico, Vidros, Orgânicos.|
+|**Incentivos:** Reaproveitamento do <br>lixo orgânico em forma <br> de adubo, Diminuir o acúmulo de lixo. |**Obstáculos:** Distância até o local de coleta, Transporte dos resíduos. |**Quantidade de pessoas/funcionários:** 12| 
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
