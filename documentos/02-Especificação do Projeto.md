@@ -66,8 +66,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF03| O site deve apresentar uma página de histórico(log) de todas coletas e reciclagens realizadas | Média |
 |RF04| O site deve apresentar funcionalidade de login e cadastro de usuários. | Alta |
 |RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável | Alta |
-
-### Requisitos não Funcionais
+|RF06|  O site deve conter uma tabela com horários de coleta de  lixo naquela região|
+       O site deve fornecer dicas e técnicas sobre como separar o lixo para destinar à reciclagem, assim como informações educativas sobre sustentabilidade.|
+       O site deve direcionar informações sobre a venda de cestos seletivos. |
+       O site deve informar os benefícios e requisitos para obtenção do selo verde. |  
+       O site deve apresentar notícias atualizadas sobre reciclagem. |
+       O usuário deve poder comentar as notícias.|Baixa|
+### Requisitos não Funcionaiss
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
