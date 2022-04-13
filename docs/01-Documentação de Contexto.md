@@ -23,21 +23,11 @@ Descreva também o contexto em que essa aplicação será usada, se  houver: emp
 O objetivo é a criação de um portal de informações que ajude os usuários a direcionar corretamente os resíduos recicláveis e informar  sobre sustentabilidade e consumo consciente.
 
 Como objetivos específicos, podemos destacar:
-<<<<<<< HEAD
 - Fornecer o contato direto com responsáveis pela coleta do lixo reciclável;
 - Instruir como separar corretamente os resíduos recicláveis entre eles.
 - Fornecer informações sobre a importância do consumo consciente e sustentabilidade.
 - Alertar o impacto causado pela má gestão dos resíduos produzidos em grande escala.  
 - Incentivar, proporcionando benefícios para quem recicla. 
-=======
-⦁    Fornecer o contato direto com responsáveis pela coleta do lixo reciclável;
-⦁    Instruir como separar corretamente os resíduos recicláveis entre eles.
-⦁    Fornecer informações sobre a importância do consumo consciente e
-     sustentabilidade. 
-⦁    Alertar o impacto causado pela má gestão dos resíduos produzidos em grande      
-     escala. 
-⦁    Incentivar, proporcionando benefícios para quem recicla. 
->>>>>>> parent of b9d633c (Update 01-Documentação de Contexto.md)
 
  
 > **Links Úteis**:
