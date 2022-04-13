@@ -16,10 +16,10 @@ O objetivo é a criação de um portal de informações que ajude os usuários a
 
 Como objetivos específicos, podemos destacar:
 - Fornecer o contato direto com responsáveis pela coleta do lixo reciclável;
-2.Instruir como separar corretamente os resíduos recicláveis entre eles.
-3.Fornecer informações sobre a importância do consumo consciente e sustentabilidade.
-4.Alertar o impacto causado pela má gestão dos resíduos produzidos em grande escala.  
-5.Incentivar, proporcionando benefícios para quem recicla. 
+- Instruir como separar corretamente os resíduos recicláveis entre eles.
+- Fornecer informações sobre a importância do consumo consciente e sustentabilidade.
+- Alertar o impacto causado pela má gestão dos resíduos produzidos em grande escala.  
+- Incentivar, proporcionando benefícios para quem recicla. 
 
 
 ## Justificativa
