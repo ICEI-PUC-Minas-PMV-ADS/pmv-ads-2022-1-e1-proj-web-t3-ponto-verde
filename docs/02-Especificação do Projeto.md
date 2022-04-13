@@ -80,9 +80,8 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 |<strong>ID<strong>| <strong>Descrição<strong>                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue no final do semestre letivo, não podendo
- extrapolar a data de 26/06/2022.|
-|02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022.|
+|02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
