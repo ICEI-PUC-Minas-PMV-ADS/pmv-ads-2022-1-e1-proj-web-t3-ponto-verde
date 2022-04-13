@@ -9,8 +9,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | Ambiente | plataforma |  link de acesso |
 |    -     |      -     |       -         |
-| Repositório de código fonte | Github |  |
-|Projeto de Interface e Wireframes| MarvelApp | https://marvelapp.com/4hd6091 |
+| Repositório de Código Fonte | Github | 
+| Documentos do Projeto | Github|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-ponto-verde/tree/main/docs |
+| Projeto de Interface e Wireframes| MarvelApp | https://marvelapp.com/4hd6091 |
+| Gerenciamento do Projeto | Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-ponto-verde/projects/1 |
 
 
 
