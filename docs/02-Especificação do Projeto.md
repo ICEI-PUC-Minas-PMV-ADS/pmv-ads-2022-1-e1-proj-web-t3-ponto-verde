@@ -78,10 +78,10 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
-|<strong>ID<strong>| <strong>Descrição<strong>                                             |
+|**ID**| **Descrição**                                           |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022.|
-|02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
+|RE01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022.|
+|RE02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
