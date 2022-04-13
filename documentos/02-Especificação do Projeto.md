@@ -56,7 +56,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001|  O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região.
+|RF-001|  O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região
 
 |RF-002| 
 
