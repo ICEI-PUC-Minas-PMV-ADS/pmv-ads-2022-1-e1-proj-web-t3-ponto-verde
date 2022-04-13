@@ -56,16 +56,18 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001|  O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região
-
-|RF-002| 
+|RF01| O site deve apresentar na página principal os conteúdos referentes ao nome do site, serviços e os propósitos envolvidos no processo da reciclagem. | Alta |
+|RF02| O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região | Média |
+|RF03| O site deve apresentar uma página de histórico(log) de todas coletas e reciclagens realizadas | Média |
+|RF04| O site deve apresentar funcionalidade de login e cadastro de usuários. | Alta |
+|RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável | Alta |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | Média | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  Baixa | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
