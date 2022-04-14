@@ -70,10 +70,9 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável. | Alta |
 |RF06| O site deve conter uma tabela com horários de coleta de  lixo naquela região | Média |
 |RF07| O site deve fornecer dicas e técnicas sobre como separar o lixo para destinar à reciclagem, assim como informações educativas sobre sustentabilidade.| Alta |
-|RF08| O site deve direcionar informações sobre a venda de cestos seletivos. |
-|RF09| O site deve informar os benefícios e requisitos para obtenção do selo verde. |  
-|RF10| O site deve informar os benefícios e requisitos para obtenção do selo verde. |  
-|RF11| O site deve apresentar notícias atualizadas sobre reciclagem. |
+|RF08| O site deve direcionar informações sobre a venda de cestos seletivos. | Alta |
+|RF09| O site deve informar os benefícios e requisitos para obtenção do selo verde. | Alta |   
+|RF11| O site deve apresentar notícias atualizadas sobre reciclagem. | Alta |
 |RF12| O usuário deve poder comentar as notícias. | Baixa | 
 
 
@@ -82,9 +81,9 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | Média | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  Baixa | 
-
+|RNF-001| Interface intuitiva e amigável | Média | 
+|RNF-002| O site deve ser responsivo tanto em computadores quanto  em dispositivos móveis |  Baixa | 
+|RNF-003| Compatibilidade com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge) | Alta |
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
