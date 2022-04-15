@@ -6,7 +6,7 @@
 
 >#### Eixo 1
 
-Este projeto trata-se do desenvolvimento de um site responsivo e funcional para a questão da reciclagem, da conscientização de sua importância, da correta forma do descarte de resíduos, das informações inerentes à logística, sustentabilidade, pontos de descarte, estatísticas, dicas e sugestões para os indivíduos e empresas que sentirem necessidade e interesse pelo processo da reciclagem. 
+A solução web tem como objetivo o desenvolvimento de um site responsivo e funcional, onde o foco é a reciclagem. O projeto propõe incentivar e direcionar os usuários sobre o descarte correto dos resíduos recicláveis,  informações inerentes à logística, pontos de descarte e incentivos.
 
 ## Integrantes
 
