@@ -31,19 +31,39 @@ foi utilizado para hospedagem do repositório.
 
 A equipe está organizada da seguinte maneira:
 
- **Scrum Master :**
- -Lucas Aquino  
+### **Scrum Master**
+
+ Lucas Aquino
  
-**Product Owner :**
- -Juliana Calazans 
-**Equipe de Desenvolvimento**
+### **Product Owner**
+ 
+ Juliana Calazans 
+  
+### **Equipe de Desenvolvimento**
+ 
+ Guilherme Azevedo
+ 
+ Igor Aleksander
+ 
+### **Equipe de Design**
+ 
+ Guilherme Azevedo
+ 
+ Igor Aleksander
+ 
+ 
+ 
+ 
+ 
+ 
 
-Guilherme Azevedo
-Igor Aleksander
-**Equipe de Design**
 
-Guilherme Azevedo
-Igor Aleksander
+
+  
+
+
+
+
 
 
 
