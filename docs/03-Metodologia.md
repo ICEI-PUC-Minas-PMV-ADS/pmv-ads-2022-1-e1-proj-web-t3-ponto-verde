@@ -25,6 +25,7 @@ foi utilizado para hospedagem do repositório.
 ## Gerenciamento de Projeto
 
 ![captura](https://user-images.githubusercontent.com/101470892/163504664-3fcf5cfd-1972-4d0f-b3c6-4f4dd6f8b148.png)
+Figura 1 – Fluxo de controle do código fonte no repositório git
 
 
 ### Divisão de Papéis
@@ -72,6 +73,7 @@ A equipe está organizada da seguinte maneira:
 Para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução, foi criado um quadro de backlogs no Projects do Github.
 
 ![Captura de tela ](https://user-images.githubusercontent.com/101470892/163831368-35c17ef3-bc13-4387-a58c-6945660ec483.png)
+Figura 2 – Tela do quadro kanban do Github criada pelo grupo.
 
 
  
