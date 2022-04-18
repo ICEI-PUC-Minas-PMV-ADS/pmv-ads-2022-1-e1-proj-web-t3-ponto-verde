@@ -86,7 +86,7 @@ Figura 2 – Tela do quadro kanban do Github criada pelo grupo.
 As ferramentas empregadas no projeto são:
 
 - Editor de código.
-- Ferramentas de comunicação
+- Ferramentas de comunicação: Microsoft Teams, Discord
 - Ferramentas de desenho de tela (_wireframing_); Marvelapp
 
 O editor de código foi escolhido porque ele possui uma integração com o
