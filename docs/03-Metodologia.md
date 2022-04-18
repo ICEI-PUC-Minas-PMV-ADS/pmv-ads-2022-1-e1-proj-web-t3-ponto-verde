@@ -25,7 +25,9 @@ foi utilizado para hospedagem do repositório.
 ## Gerenciamento de Projeto
 
 ![captura](https://user-images.githubusercontent.com/101470892/163504664-3fcf5cfd-1972-4d0f-b3c6-4f4dd6f8b148.png)
+
 Figura 1 – Fluxo de controle do código fonte no repositório git
+
 
 
 ### Divisão de Papéis
