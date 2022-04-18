@@ -71,6 +71,9 @@ A equipe está organizada da seguinte maneira:
 
 Para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução, foi criado um quadro de backlogs no Projects do Github.
 
+![Captura de tela ](https://user-images.githubusercontent.com/101470892/163831368-35c17ef3-bc13-4387-a58c-6945660ec483.png)
+
+
  
 
 
@@ -80,7 +83,7 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código.
 - Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Ferramentas de desenho de tela (_wireframing_); Marvelapp
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -90,6 +93,4 @@ necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
