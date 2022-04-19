@@ -8,13 +8,13 @@ A criação da interface do sistema foi desenvolvida para proporcionar praticida
 ## Diagrama de Fluxo
 
 
-Conforme demonstrado a seguir, a *Figura 1* mostra o diagrama de fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é aprofundada na seção de Wireframes.
+Conforme demonstrado a seguir, a *Figura 3* mostra o diagrama de fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é aprofundada na seção de Wireframes.
 
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164074334-8a8c3365-c80a-4eb2-a5b2-8935bcb35727.png)
 
-Figura 1 – Diagrama de Fluxo de Usuário
+Figura 3 – Diagrama de Fluxo de Usuário
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
