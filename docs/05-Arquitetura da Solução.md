@@ -2,7 +2,7 @@
 
 ## Diagrama de componentes
 
-![Diagrama de Componentes](img/componentes.png)
+![Diagrama de Componentes](img/Arquitetura.jpg)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
