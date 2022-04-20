@@ -53,6 +53,8 @@ A tela de cadastro de pessoa física é uma tela criada para os usuários que de
 
 A tela de cadastro de pessoa jurídica é uma tela destinada as empresas que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em seu local. Nela é oferecida um formulário em que o usúario responsável preenche as informações e endereço, criando o acesso a plataforma Ponto Verde. O usúario no final do cadastro, deve aceitar os termos e condições. 
 
+![image](https://user-images.githubusercontent.com/100734910/164271519-87dc1faa-5f77-434c-a084-16b020e4121e.png)
+
 
 
 
