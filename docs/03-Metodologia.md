@@ -1,6 +1,9 @@
 
 # Metodologia
 
+
+
+
 A metodologia contempla as definições de ferramentas utilizadas pela equipe, tanto para a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto.
 
 # Relação de Ambientes de Trabalho
@@ -70,7 +73,7 @@ A equipe está organizada da seguinte maneira:
 
 
 
-### Processo
+# Processo
 
 Para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução, foi criado um quadro de backlogs no Projects do Github.
 
@@ -81,7 +84,7 @@ Figura 2 – Tela do quadro kanban do Github criada pelo grupo.
  
 
 
-### Ferramentas
+# Ferramentas
 
 As ferramentas empregadas no projeto são:
 
