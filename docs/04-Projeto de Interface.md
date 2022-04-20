@@ -48,7 +48,7 @@ A tela de Login é a primeira página disponivél para o usuário acessar, nela 
 
 A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. O usúario no final do cadastro, deve aceitar os termos e condições.
 
-![image](https://user-images.githubusercontent.com/100734910/164302888-ffb685ba-fa87-48c9-9d30-339dc07223ea.png)
+![image](https://user-images.githubusercontent.com/100734910/164304025-e0157d61-74ab-4f94-bc36-2da66b40c033.png)
 
 ### **Tela Cadastro - Pessoa Júridica**
 
