@@ -2,7 +2,7 @@
 
 ## Diagrama de componentes
 
-![Diagrama de Componentes](img/Arquitetura Ponto Verde.png)
+![Diagrama de Componentes](img/Arquitetura Ponto Verde.jpg)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
