@@ -1,4 +1,4 @@
-# Ponto Verde :deciduous_tree:
+# Ponto Verde :recycle:
 
 ## Análise e Desenvolvimento de Software - PUC MINAS
 
