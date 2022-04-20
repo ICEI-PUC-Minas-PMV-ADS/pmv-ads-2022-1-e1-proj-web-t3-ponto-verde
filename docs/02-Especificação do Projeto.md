@@ -27,14 +27,18 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                            | PARA ... `MOTIVO/VALOR`                                         |
-|--------------------|---------------------------------------------------------------|---------------------------------------------------------------- |
-|José da Silva       | Solicitar coleta de lixo reciclável                           | Por não possuir meio adequado de transportar o lixo             |
-|José da Silva       | Obter selo empresa sustentável                                | Melhorar a imagem da empresa e redução de impostos              |
-|Maria Gomes         | Distribuir cestos seletivos para os moradores                 | Facilitar a separação dos resíduos recicláveis e não recicláveis|
-| Maria Gomes        | Se informar sobre horários de coleta                          |  Ajudar na logística de reciclagem do condomínio               |
-| Marcio Santos      | Se informar sobre técnicas de adubagem com materiais orgânicos| Diminuir os materiais orgânicos reaproveitando em forma de adubo| 
-| Marcio Santos      | Manter um registro de quantidade de resíduos reciclados       |Para facilitar o controle do volume de lixo reciclado             |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                            | PARA ... `MOTIVO/VALOR`                                           |
+|--------------------|---------------------------------------------------------------|----------------------------------------------------------------   |
+| José da Silva       | Solicitar coleta de lixo reciclável                           | Por não possuir meio adequado de transportar o lixo              |
+| José da Silva       | Obter informaçoes sobre como obter o selo empresa sustentável | Melhorar a imagem da empresa e redução de impostos               |
+| José da Silva       | Obter dicas e técnicas sobre reciclagem                       | Melhor aproveitamento dos reciclaveis                            |
+| Maria Gomes         | Obter informaçoes sobre a venda de cestos seletivos           | Facilitar a separação dos resíduos recicláveis e não recicláveis |
+| Maria Gomes         | Se informar sobre horários de coleta                          | Ajudar na logística de reciclagem do condomínio                  |
+| Maria Gomes         | Se informar com noticias atualizadas sobre reciclagem         | Me manter atualizado sobre as ultimas notícias                   |
+| Marcio Santos       | Se informar sobre técnicas de adubagem com materiais orgânicos| Diminuir os materiais orgânicos reaproveitando em forma de adubo | 
+| Marcio Santos       | Manter um registro de quantidade de resíduos reciclados       | Para facilitar o controle do volume de lixo reciclado            |
+| Marcio Santos       | Escrever comentários nas noticias                             | Interagir com os demais usuários                                 |
+
 
 
 ## Requisitos
