@@ -89,7 +89,7 @@ Figura 2 – Tela do quadro kanban do Github criada pelo grupo.
 As ferramentas empregadas no projeto são:
 
 - Editor de código: [Visual Studio Code](https://code.visualstudio.com/)
-- Ferramentas de comunicação: [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software), [Discord](https://discord.com/)
+- Ferramentas de comunicação: [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software), [Discord](https://discord.com/), [Whatsapp](https://www.whatsapp.com)
 - Ferramentas de desenho de tela (_wireframing_); [Marvelapp](https://marvelapp.com/)
 
 O editor de código foi escolhido porque ele possui uma integração com o
