@@ -56,8 +56,6 @@ A tela de locais de coleta é destinada para informar ao usúario cadastrado os 
 ![image](https://user-images.githubusercontent.com/100734910/164309336-7dfbc742-868b-4291-afa5-1f3e55f1b6c6.png)
 
 
-![image](https://user-images.githubusercontent.com/100734910/164308039-46262f76-6e14-4f42-b47c-056fee2c0bfc.png)
-
 
 ### **Tela Contato**
 
