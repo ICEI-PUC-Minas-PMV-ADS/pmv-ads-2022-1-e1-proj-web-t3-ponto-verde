@@ -44,12 +44,19 @@ A tela de cadastro de pessoa física é uma tela criada para os usuários que de
 
 ### **Tela Cadastro - Pessoa Júridica**
 
+
 A tela de cadastro de pessoa jurídica é uma tela destinada as empresas que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em seu local. Nela é oferecida um formulário em que o usúario responsável preenche as informações e endereço, criando o acesso a plataforma Ponto Verde. O usúario no final do cadastro, deve aceitar os termos e condições. 
 
 ![image](https://user-images.githubusercontent.com/100734910/164302335-cf5b22c7-836b-4f00-8d90-3b07890a842e.png)
 
 
 ### **Tela Locais de Coleta**
+A tela de locais de coleta é destinada para informar ao usúario cadastrado os locais disponíveis em sua região para se realizar o descarte e informar a rota de coleta das empresas parceiras da plataforma. Além de informar também pontos fixos onde o descarte pode ser feito, caso o usúario opte em não agendar a coleta na sua residência ou empresa.
+
+![image](https://user-images.githubusercontent.com/100734910/164309336-7dfbc742-868b-4291-afa5-1f3e55f1b6c6.png)
+
+
+![image](https://user-images.githubusercontent.com/100734910/164308039-46262f76-6e14-4f42-b47c-056fee2c0bfc.png)
 
 
 ### **Tela Contato**
@@ -57,7 +64,7 @@ A tela de cadastro de pessoa jurídica é uma tela destinada as empresas que des
 
 ### **Tela Notícia**
 
-A tela de notícia é uma tela destinada para informar os usuários e aos visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
+A tela de notícia é destinada para informar os usuários e aos visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
 
 ![image](https://user-images.githubusercontent.com/100734910/164305106-db1b1147-4155-4df4-92ff-e49aa5b101a5.png)
 
