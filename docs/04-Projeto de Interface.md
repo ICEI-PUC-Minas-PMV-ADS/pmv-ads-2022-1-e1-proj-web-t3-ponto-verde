@@ -35,7 +35,7 @@ Figura 3 – Diagrama de Fluxo de Usuário
 
 ### **Tela Notícia**
 
-A tela de notícia é uma tela destinada para informar os usuários e aos visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade no mundo. 
+A tela de notícia é uma tela destinada para informar os usuários e aos visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
 
 ![image](https://user-images.githubusercontent.com/100734910/164305106-db1b1147-4155-4df4-92ff-e49aa5b101a5.png)
 
