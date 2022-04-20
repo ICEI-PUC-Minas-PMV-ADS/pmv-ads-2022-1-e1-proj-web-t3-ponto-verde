@@ -27,24 +27,13 @@ Figura 3 – Diagrama de Fluxo de Usuário
 ### **Tela Home/Menu**
 
 
-### **Tela Locais de Coleta**
-
-
-### **Tela Contato**
-
-
-### **Tela Notícia**
-
-A tela de notícia é uma tela destinada para informar os usuários e aos visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
-
-![image](https://user-images.githubusercontent.com/100734910/164305106-db1b1147-4155-4df4-92ff-e49aa5b101a5.png)
-
 ### **Tela de Login**
 
 
 A tela de Login é a primeira página disponivél para o usuário acessar, nela é apresentada a opção de e-mail e senha, a qual deve ser preenchida com os dados cadastrados na tela de cadastro. Caso o usuário não possua registro no sistema, é possível realizar através da opção "não possui uma conta?".
 
 ![image](https://user-images.githubusercontent.com/100734910/164304668-58560a78-38c5-43b3-b630-0c24f746b451.png)
+
 
 ### **Tela Cadastro - Pessoa Física**
 
@@ -58,6 +47,19 @@ A tela de cadastro de pessoa física é uma tela criada para os usuários que de
 A tela de cadastro de pessoa jurídica é uma tela destinada as empresas que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em seu local. Nela é oferecida um formulário em que o usúario responsável preenche as informações e endereço, criando o acesso a plataforma Ponto Verde. O usúario no final do cadastro, deve aceitar os termos e condições. 
 
 ![image](https://user-images.githubusercontent.com/100734910/164302335-cf5b22c7-836b-4f00-8d90-3b07890a842e.png)
+
+
+### **Tela Locais de Coleta**
+
+
+### **Tela Contato**
+
+
+### **Tela Notícia**
+
+A tela de notícia é uma tela destinada para informar os usuários e aos visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
+
+![image](https://user-images.githubusercontent.com/100734910/164305106-db1b1147-4155-4df4-92ff-e49aa5b101a5.png)
 
 
 
