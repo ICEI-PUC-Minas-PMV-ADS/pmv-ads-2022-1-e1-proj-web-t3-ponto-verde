@@ -24,7 +24,7 @@ Figura 3 – Diagrama de Fluxo de Usuário
 
 ## Wireframes
 
-# **Tela Home**
+### **Tela Home**
 ![image](https://user-images.githubusercontent.com/100742971/164125667-ac226315-9cee-4b0b-9038-4f104ab9bc77.png)
 
 # **Tela Home/Menu**
