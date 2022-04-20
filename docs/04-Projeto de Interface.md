@@ -30,13 +30,24 @@ Figura 3 – Diagrama de Fluxo de Usuário
 **Tela Home/Menu**
 ![image](https://user-images.githubusercontent.com/100742971/164125734-e2105979-f9c6-4d66-aeb1-3624b346adfd.png)
 
-**Tela Locais de Coleta
+**Tela Locais de Coleta**
 ![image](https://user-images.githubusercontent.com/100742971/164125941-510aea49-8662-4728-94ca-96c1405ec3b9.png)
 
+**Tela Contato**
+![image](https://user-images.githubusercontent.com/100742971/164126076-6f75b531-288b-42f7-bb3e-6f4a7029bf37.png)
+
+**Tela Notícia**
+![image](https://user-images.githubusercontent.com/100742971/164126103-abcae7dd-3ada-4f02-87ff-824e5c385284.png)
 
 **Tela de Login**
 
 A tela de Login é a primeira página disponivél para o usuário acessar, nela é apresentada a opção de e-mail e senha, a qual deve ser preenchida com os dados cadastrados na tela de cadastro. Caso o usuário não possua registro no sistema, é possível realizar através da opção "não possui uma conta?".
+![image](https://user-images.githubusercontent.com/100742971/164126135-e9e4989c-8408-4610-8518-f9a5e3dd5823.png)
+
+**Tela Cadastro**
+![image](https://user-images.githubusercontent.com/100742971/164126153-3a545f03-232c-4199-aa61-586968d8e052.png)
+
+
 
 
 
