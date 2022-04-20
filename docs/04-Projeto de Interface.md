@@ -43,8 +43,13 @@ Figura 3 – Diagrama de Fluxo de Usuário
 A tela de Login é a primeira página disponivél para o usuário acessar, nela é apresentada a opção de e-mail e senha, a qual deve ser preenchida com os dados cadastrados na tela de cadastro. Caso o usuário não possua registro no sistema, é possível realizar através da opção "não possui uma conta?".
 ![image](https://user-images.githubusercontent.com/100742971/164126370-3ab4363e-fa45-4434-8956-cfc944d15804.png)
 
-### **Tela Cadastro**
-![image](https://user-images.githubusercontent.com/100742971/164126382-ef41b039-5a41-4673-bdab-fe46069a4eb0.png)
+### **Tela Cadastro - Pessoa Física**
+
+
+A tela de cadastro de pessoa física é uma tela criada para o usuário que deseja-se cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. O usúario no final do cadastro, deve aceitar os termos e condições.
+
+![image](https://user-images.githubusercontent.com/100734910/164256336-4fe45742-1e2f-4709-8cad-c54eddf11a5a.png)
+
 
 
 
