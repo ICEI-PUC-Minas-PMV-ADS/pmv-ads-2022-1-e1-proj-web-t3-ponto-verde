@@ -1,10 +1,10 @@
-># Ponto Verde :deciduous_tree:
+# Ponto Verde :deciduous_tree:
 
->## Análise e Desenvolvimento de Software - PUC MINAS
+## Análise e Desenvolvimento de Software - PUC MINAS
 
->### Projeto - Desenvolvimento de uma aplicação web front-end
+### Projeto - Desenvolvimento de uma aplicação web front-end
 
->#### Eixo 1
+#### Eixo 1
 
 A solução web tem como objetivo o desenvolvimento de um site responsivo e funcional, onde o foco é a reciclagem. O projeto propõe incentivar e direcionar os usuários sobre o descarte correto dos resíduos recicláveis,  informações inerentes à logística, pontos de descarte e incentivos.
 
