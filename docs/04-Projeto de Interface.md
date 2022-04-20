@@ -34,18 +34,18 @@ Figura 3 – Diagrama de Fluxo de Usuário
 ![image](https://user-images.githubusercontent.com/100742971/164125941-510aea49-8662-4728-94ca-96c1405ec3b9.png)
 
 **Tela Contato**
-![image](https://user-images.githubusercontent.com/100742971/164126076-6f75b531-288b-42f7-bb3e-6f4a7029bf37.png)
+![image](https://user-images.githubusercontent.com/100742971/164126319-7a6677c1-dbea-48bb-abb5-dbfae2d6e719.png)
 
 **Tela Notícia**
-![image](https://user-images.githubusercontent.com/100742971/164126103-abcae7dd-3ada-4f02-87ff-824e5c385284.png)
+![image](https://user-images.githubusercontent.com/100742971/164126352-cfd173b4-4c77-45c1-9ee4-6d3d9bd300a8.png)
 
 **Tela de Login**
 
 A tela de Login é a primeira página disponivél para o usuário acessar, nela é apresentada a opção de e-mail e senha, a qual deve ser preenchida com os dados cadastrados na tela de cadastro. Caso o usuário não possua registro no sistema, é possível realizar através da opção "não possui uma conta?".
-![image](https://user-images.githubusercontent.com/100742971/164126135-e9e4989c-8408-4610-8518-f9a5e3dd5823.png)
+![image](https://user-images.githubusercontent.com/100742971/164126370-3ab4363e-fa45-4434-8956-cfc944d15804.png)
 
 **Tela Cadastro**
-![image](https://user-images.githubusercontent.com/100742971/164126153-3a545f03-232c-4199-aa61-586968d8e052.png)
+![image](https://user-images.githubusercontent.com/100742971/164126382-ef41b039-5a41-4673-bdab-fe46069a4eb0.png)
 
 
 
