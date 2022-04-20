@@ -16,13 +16,13 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 
 
-## Controle de Versão
+# Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
-## Gerenciamento de Projeto
+# Gerenciamento de Projeto
 
 ![captura](https://user-images.githubusercontent.com/101470892/163504664-3fcf5cfd-1972-4d0f-b3c6-4f4dd6f8b148.png)
 
@@ -30,7 +30,7 @@ Figura 1 – Fluxo de controle do código fonte no repositório git
 
 
 
-### Divisão de Papéis
+# Divisão de Papéis
 
 A equipe está organizada da seguinte maneira:
 
