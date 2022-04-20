@@ -21,14 +21,6 @@ As personas levantadas durante o processo de entendimento do problema são apres
 |**![](https://lh4.googleusercontent.com/jKePMYEcD6TGWaidQKK1_hue52hklkWGgyVpxGJe-mtcqk6tJjxQADQVXwMiJVhi_r9tmF186sVoA-htxE35xX0DcXgdkrNLhd7_zF8rDuyLddDheMEwrds8dehQjmg000Yp9GmE)**|**Idade:** 40 anos <br><br>  **Ocupação:** Advogado, dono de uma horta/sitio de orgânicos. |**Tipos de lixo produzido**:  Papel, Plástico, Vidros, Orgânicos.|
 |**Incentivos:** <br> Reaproveitamento do lixo orgânico <br> em forma de adubo, Diminuir o acúmulo de lixo. |**Obstáculos:** Distância até o local de coleta, Transporte dos resíduos. |**Quantidade de pessoas/funcionários:** 12| 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
-
 
 ## Histórias de Usuários
 
@@ -44,12 +36,6 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 | Marcio Santos      | Se informar sobre técnicas de adubagem com materiais orgânicos| Diminuir os materiais orgânicos reaproveitando em forma de adubo| 
 | Marcio Santos      | Manter um registro de quantidade de resíduos reciclados       |Para facilitar o controle do volume de lixo reciclado             |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -86,19 +72,6 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RNF-003| Compatibilidade com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge) | Alta |
 
 
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
