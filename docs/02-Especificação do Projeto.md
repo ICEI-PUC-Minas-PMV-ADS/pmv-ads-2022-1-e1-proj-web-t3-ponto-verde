@@ -37,7 +37,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 | Maria Gomes         | Se informar com noticias atualizadas sobre reciclagem         | Me manter atualizado sobre as ultimas notícias                   |
 | Marcio Santos       | Se informar sobre técnicas de adubagem com materiais orgânicos| Diminuir os materiais orgânicos reaproveitando em forma de adubo | 
 | Marcio Santos       | Manter um registro de quantidade de resíduos reciclados       | Para facilitar o controle do volume de lixo reciclado            |
-| Marcio Santos       | Escrever comentários nas noticias                             | Interagir com os demais usuários                                 |
+| Marcio Santos       | Comentar nas notícias                                         | Interagir com os demais usuários                                 |
 
 
 
