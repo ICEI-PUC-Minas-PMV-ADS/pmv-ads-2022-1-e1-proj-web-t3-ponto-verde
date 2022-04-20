@@ -26,6 +26,11 @@ Figura 3 – Diagrama de Fluxo de Usuário
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
+**Tela Home**
+![image](https://user-images.githubusercontent.com/100742971/164125667-ac226315-9cee-4b0b-9038-4f104ab9bc77.png)
+
+**Tela home/Menu**
+![image](https://user-images.githubusercontent.com/100742971/164125734-e2105979-f9c6-4d66-aeb1-3624b346adfd.png)
 
 **Tela de Login**
 
