@@ -73,8 +73,7 @@ A tela de notícia é destinada para informar os usuários e aos visitantes da p
 A tela de pagamento é destinada para o usúario finalizar a obtenção dos cestos seletivos. Nela contém três metódos diferentes de pagamento.
 
 
-![image](https://user-images.githubusercontent.com/100734910/164478609-e45e7602-d6b3-4b32-8d05-8f9a86fba703.png)
-
+![image](https://user-images.githubusercontent.com/100734910/164479492-39286831-276a-471d-8b2a-1a8328a9dd0d.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
