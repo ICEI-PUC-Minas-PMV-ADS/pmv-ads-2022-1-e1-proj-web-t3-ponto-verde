@@ -12,7 +12,8 @@ Conforme demonstrado a seguir, a *Figura 3* mostra o diagrama de fluxo de intera
 
 
 
-![image](https://user-images.githubusercontent.com/100734910/164074334-8a8c3365-c80a-4eb2-a5b2-8935bcb35727.png)
+![image](https://user-images.githubusercontent.com/100734910/164358869-eba9b938-401a-4438-9fbb-d530b4b9f110.png)
+
 
 Figura 3 – Diagrama de Fluxo de Usuário
 
