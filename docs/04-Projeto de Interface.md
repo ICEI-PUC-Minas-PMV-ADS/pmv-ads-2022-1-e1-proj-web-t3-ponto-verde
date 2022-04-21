@@ -60,10 +60,8 @@ A tela de locais de coleta é destinada para informar ao usuário cadastrado os 
 
 
 ### **Tela Contato**
-A tela de contato é destinada para usuários e empresas que desejam se conectar com os responsáveis pela plataforma.
+A tela de contato é destinada para usuários e empresas que desejam se conectar com os responsáveis pela plataforma. A tela oferece também a opção de comentar e dar sugestões. Deve-se informar o nome, e-mail, assunto e texto da mensagem, e em seguida, deve-se confirmar clicando no botão enviar.
 
-
-![image](https://user-images.githubusercontent.com/100734910/164484915-b40302aa-18c2-412f-8d07-e902d41c911c.png)
 
 
 
