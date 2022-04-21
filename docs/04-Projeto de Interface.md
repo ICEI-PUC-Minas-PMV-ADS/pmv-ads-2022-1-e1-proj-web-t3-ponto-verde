@@ -60,7 +60,10 @@ A tela de locais de coleta é destinada para informar ao usúario cadastrado os 
 
 
 ### **Tela Contato**
+A tela de contato é destinada para usúarios e empresas que desejam se contactar com os responsáveis pela plataforma.
 
+
+![image](https://user-images.githubusercontent.com/100734910/164479969-4356387f-e5af-4615-8a7b-bbe8e17c5b71.png)
 
 ### **Tela Notícia**
 
