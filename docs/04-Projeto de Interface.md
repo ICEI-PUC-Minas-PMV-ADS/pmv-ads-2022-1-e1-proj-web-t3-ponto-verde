@@ -40,27 +40,27 @@ A tela de Login é a primeira página disponivél para o usuário acessar, nela 
 ### **Tela Cadastro - Pessoa Física**
 
 
-A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. O usúario no final do cadastro, deve aceitar os termos e condições.
+A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. No final do cadastro, deve aceitar os termos e condições.
 
 ![image](https://user-images.githubusercontent.com/100734910/164304025-e0157d61-74ab-4f94-bc36-2da66b40c033.png)
 
 ### **Tela Cadastro - Pessoa Júridica**
 
 
-A tela de cadastro de pessoa jurídica é uma tela destinada as empresas que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em seu local. Nela é oferecida um formulário em que o usúario responsável preenche as informações e endereço, criando o acesso a plataforma Ponto Verde. O usúario no final do cadastro, deve aceitar os termos e condições. 
+A tela de cadastro de pessoa jurídica é uma tela destinada as empresas que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em seu local. Nela é oferecida um formulário em que o usuário responsável preenche as informações e endereço, criando o acesso a plataforma Ponto Verde. O usuário no final do cadastro, deve aceitar os termos e condições. 
 
 ![image](https://user-images.githubusercontent.com/100734910/164302335-cf5b22c7-836b-4f00-8d90-3b07890a842e.png)
 
 
 ### **Tela Locais de Coleta**
-A tela de locais de coleta é destinada para informar ao usúario cadastrado os locais disponíveis em sua região para se realizar o descarte e informar a rota de coleta das empresas parceiras da plataforma. Além de informar também pontos fixos onde o descarte pode ser feito, caso o usúario opte em não agendar a coleta na sua residência ou empresa.
+A tela de locais de coleta é destinada para informar ao usuário cadastrado os locais disponíveis em sua região para se realizar o descarte e informar a rota de coleta das empresas parceiras da plataforma. Além de informar também pontos fixos onde o descarte pode ser feito, caso o usuário opte em não agendar a coleta na sua residência ou empresa.
 
 ![image](https://user-images.githubusercontent.com/100734910/164309336-7dfbc742-868b-4291-afa5-1f3e55f1b6c6.png)
 
 
 
 ### **Tela Contato**
-A tela de contato é destinada para usúarios e empresas que desejam se conectar com os responsáveis pela plataforma.
+A tela de contato é destinada para usuários e empresas que desejam se conectar com os responsáveis pela plataforma.
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164484915-b40302aa-18c2-412f-8d07-e902d41c911c.png)
@@ -75,7 +75,7 @@ A tela de notícia é destinada para informar os usuários e aos visitantes da p
 
 ### **Tela de Pagamento**
 
-A tela de pagamento é destinada para o usúario finalizar a obtenção dos cestos seletivos. Nela contém três metódos diferentes de pagamento.
+A tela de pagamento é destinada para o usuário finalizar a obtenção dos cestos seletivos. Nela contém três metódos diferentes de pagamento.
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164481277-908a2fb8-e40c-41d6-822b-22093d26c8a0.png)
