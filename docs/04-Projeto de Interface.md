@@ -57,6 +57,11 @@ A tela de locais de coleta é destinada para informar ao usuário cadastrado os 
 
 ![image](https://user-images.githubusercontent.com/100734910/164309336-7dfbc742-868b-4291-afa5-1f3e55f1b6c6.png)
 
+### **Tela de Agendamento**
+A tela de agendamento é uma tela voltada para o usuário agendar a retirada dos resíduos recicláveis no local cadastrado no sistema.  Nela é demonstrada um calendário e horário para selecionar e confirmar a coleta. 
+
+![image](https://user-images.githubusercontent.com/100734910/164578761-fbdf8743-cb80-4d74-a23f-2903c26b346a.png)
+ 
 
 
 ### **Tela Contato**
