@@ -91,7 +91,7 @@ A tela de notícia é destinada para informar os usuários e visitantes da plata
 A tela de compra é direcionada para os usuários interessados em adquirir cestos seletivos. Nela contém a imagem do produto ofertado, botão de selecionar a quantidade, utilidade, valor, opção de calcular o frete. O botão comprar direciona o usuário para a tela de pagamento.
 
 
-![image](https://user-images.githubusercontent.com/100734910/164752017-ec7cae93-177a-4443-9c07-8ed7e693b2e7.png)
+![image](https://user-images.githubusercontent.com/100734910/164753963-d97bcbe6-c80d-4134-a8bc-6a6f53826d5b.png)
 
 
 ### **Tela de Pagamento**
