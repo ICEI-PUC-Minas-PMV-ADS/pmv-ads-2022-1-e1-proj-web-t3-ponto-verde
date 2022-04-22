@@ -11,8 +11,7 @@ A criação da interface do sistema foi desenvolvida para proporcionar praticida
 Conforme demonstrado a seguir, a *Figura 3* mostra o diagrama de fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é aprofundada na seção de Wireframes.
 
 
-
-![image](https://user-images.githubusercontent.com/100734910/164360159-9f30b239-87ae-45c5-9d57-8f6bf77fc9a4.png)
+![image](https://user-images.githubusercontent.com/100734910/164746356-603b5a4d-546c-471d-a576-0a14cb642246.png)
 
 
 
