@@ -77,6 +77,12 @@ A tela de contato é destinada para usuários e empresas que desejam se conectar
 A tela de notícia é destinada para informar os usuários e visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
 
 ![image](https://user-images.githubusercontent.com/100734910/164305106-db1b1147-4155-4df4-92ff-e49aa5b101a5.png)
+### **Tela de Compra- Cestos Seletivos**
+
+A tela de compra é direcionada para os usuários interessados em adquirir cestos seletivos. Nela contém a imagem do produto ofertado, utilidade, valor, opção de calcular o frete e o prazo de entrega. O botão confirmar direciona o usuário para a tela de pagamento.
+
+![image](https://user-images.githubusercontent.com/100734910/164749214-32d2f05e-fb4b-4191-82da-f206d95b455b.png)
+
 
 ### **Tela de Pagamento**
 
