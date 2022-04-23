@@ -22,7 +22,16 @@ Figura 3 – Diagrama de Fluxo de Usuário
 
 ## Wireframes
 
+
 ### **Tela Home**
+
+
+A tela home é a página central da plataforma, nela é informada o propósito do site. O cabeçalho apresenta a logo no centro da tela, a direita o botão de login e cadastro. A esquerda o menu onde informa os contéudos disponíveis para o usuário.
+
+
+
+![image](https://user-images.githubusercontent.com/100734910/164817158-f407d477-fa34-4c5e-bf80-cae7a51410ad.png)
+
 
 
 ### **Tela Home/Menu**
