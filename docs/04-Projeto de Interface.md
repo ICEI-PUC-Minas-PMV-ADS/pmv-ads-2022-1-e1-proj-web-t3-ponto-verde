@@ -79,6 +79,16 @@ A tela de agendamento é uma tela voltada para o usuário agendar a retirada dos
  ![image](https://user-images.githubusercontent.com/100734910/164745233-4121e285-91ef-4cc7-bb35-94c4d52403c6.png)
 
 
+### **Tela Histórico de Coleta**
+
+A tela histórico de coleta é destinada para usuários cadastrados no sistema. Nela oferece a opção de escolher o dia, logo após selecionar, a tela apresenta uma tabela separada por grupos de resíduos e a quantidade reciclada.
+
+
+![image](https://user-images.githubusercontent.com/100734910/164845074-9d673111-a3d4-4663-b826-8644e0c56e9e.png)
+
+
+
+
 ### **Tela Contato**
 
 A tela de contato é destinada para usuários e empresas que desejam se conectar com os responsáveis pela plataforma. A tela oferece também a opção de fazer comentarios e sugestoes. Deve-se informar o nome, e-mail, assunto e texto da mensagem, e em seguida, deve-se confirmar clicando no botão enviar.
@@ -93,6 +103,15 @@ A tela de notícia é destinada para informar os usuários e visitantes da plata
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164305106-db1b1147-4155-4df4-92ff-e49aa5b101a5.png)
+
+
+###**Tela Selo Verde**
+
+A tela selo verde é direcionada para usuários a qual desejam se informar para obter o selo verde.
+
+
+![image](https://user-images.githubusercontent.com/100734910/164843847-00ceced8-ead1-4878-afab-305ce133c716.png)
+
 
 
 ### **Tela de Compra- Cestos Seletivos**
