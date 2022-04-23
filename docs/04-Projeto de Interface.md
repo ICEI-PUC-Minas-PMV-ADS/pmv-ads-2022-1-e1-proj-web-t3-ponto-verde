@@ -111,7 +111,7 @@ A tela de contato é destinada para usuários e empresas que desejam se conectar
 
 ### **Tela Notícias**
 
-A tela de notícia é destinada para informar os usuários e visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
+A tela de notícias é destinada para informar os usuários e visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164869451-f90aa7d2-518d-4eb4-92f7-336347ff3216.png)
