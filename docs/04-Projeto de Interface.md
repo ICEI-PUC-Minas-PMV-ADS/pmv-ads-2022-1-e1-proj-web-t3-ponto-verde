@@ -51,7 +51,8 @@ A tela de Login é a primeira página disponivél para o usuário acessar, nela 
 A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. No final do cadastro, deve aceitar os termos e condições.
 
 
-![image](https://user-images.githubusercontent.com/100734910/164752307-438cb4cc-19fb-44c3-9743-b1de18140b38.png)
+![image](https://user-images.githubusercontent.com/100734910/164870317-0e0ca114-f4cb-4455-9a3a-9874f0c0f090.png)
+
 
 
 ### **Tela Cadastro - Pessoa Júridica**
@@ -69,6 +70,17 @@ A tela de locais de coleta é destinada para informar ao usuário cadastrado os 
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164752648-b4fc2815-f05f-4814-aba3-68f751971adc.png)
+
+
+### **Tela do Usuário**
+
+
+![image](https://user-images.githubusercontent.com/100734910/164871713-7c8f773f-4696-4e08-bc1d-6064ab5d65ac.png)
+
+
+
+
+
 
 
 ### **Tela de Agendamento**
@@ -97,15 +109,16 @@ A tela de contato é destinada para usuários e empresas que desejam se conectar
 ![image](https://user-images.githubusercontent.com/100734910/164752761-c239f5a7-14ea-4c73-afe8-d5021f6a1714.png)
 
 
-### **Tela Notícia**
+### **Tela Notícias**
 
 A tela de notícia é destinada para informar os usuários e visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
 
 
-![image](https://user-images.githubusercontent.com/100734910/164305106-db1b1147-4155-4df4-92ff-e49aa5b101a5.png)
+![image](https://user-images.githubusercontent.com/100734910/164869451-f90aa7d2-518d-4eb4-92f7-336347ff3216.png)
 
 
-###**Tela Selo Verde**
+
+### **Tela Selo Verde**
 
 A tela selo verde é direcionada para usuários a qual desejam se informar para obter o selo verde.
 
