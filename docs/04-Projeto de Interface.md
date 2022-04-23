@@ -37,6 +37,11 @@ A tela home é a página central da plataforma, nela é informada o propósito d
 ### **Tela Home/Menu**
 
 
+A tela Menu é um recurso disponível em todas as telas da plataforma. A opção encaminha o usuário a página que deseja navegar.
+
+![image](https://user-images.githubusercontent.com/100734910/164895711-24e06037-d381-4eb0-a92a-56020ccdba89.png)
+
+
 ### **Tela de Login**
 
 
@@ -75,9 +80,7 @@ A tela de locais de coleta é destinada para informar ao usuário cadastrado os 
 ### **Tela do Usuário**
 
 
-![image](https://user-images.githubusercontent.com/100734910/164871713-7c8f773f-4696-4e08-bc1d-6064ab5d65ac.png)
-
-
+![image](https://user-images.githubusercontent.com/100734910/164896590-1beb2e9e-560d-49c4-8129-bd3531d50a1f.png)
 
 
 
@@ -111,20 +114,26 @@ A tela de contato é destinada para usuários e empresas que desejam se conectar
 
 ### **Tela Notícias**
 
-A tela de notícias é destinada para informar os usuários e visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. 
+A tela de notícias é destinada para informar usuários e visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. A tela oferece ao leitor  a oportunidade de comentar sua opnião na opção de comentários.
 
-
-![image](https://user-images.githubusercontent.com/100734910/164869451-f90aa7d2-518d-4eb4-92f7-336347ff3216.png)
+![image](https://user-images.githubusercontent.com/100734910/164895992-16c1b4d8-8122-4db0-b282-878fc1e5d920.png)
 
 
 
 ### **Tela Selo Verde**
 
-A tela selo verde é direcionada para usuários a qual desejam se informar para obter o selo verde.
+A tela é direcionada para usuários a qual desejam se informarem para obtenção do selo verde.
 
 
-![image](https://user-images.githubusercontent.com/100734910/164843847-00ceced8-ead1-4878-afab-305ce133c716.png)
+![image](https://user-images.githubusercontent.com/100734910/164901138-b117d36f-c373-4786-b9f2-b28c8d2fa444.png)
 
+
+### **Tela Dicas e Técnicas
+
+
+A tela é destinada para os usuários que desejam se informarem sobre dicas e técnicas voltadas para reciclagem.
+
+![image](https://user-images.githubusercontent.com/100734910/164909050-b9ea3587-1ec5-4272-8c0e-b78b5928b7c3.png)
 
 
 ### **Tela de Compra- Cestos Seletivos**
@@ -132,7 +141,7 @@ A tela selo verde é direcionada para usuários a qual desejam se informar para 
 A tela de compra é direcionada para os usuários interessados em adquirir cestos seletivos. Nela contém a imagem do produto ofertado, botão de selecionar a quantidade, utilidade, valor, opção de calcular o frete. O botão comprar direciona o usuário para a tela de pagamento.
 
 
-![image](https://user-images.githubusercontent.com/100734910/164753963-d97bcbe6-c80d-4134-a8bc-6a6f53826d5b.png)
+![image](https://user-images.githubusercontent.com/100734910/164902381-d5d703eb-253c-4d8d-a83f-7c393aadad8d.png)
 
 
 ### **Tela de Pagamento**
