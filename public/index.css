@@ -14,6 +14,12 @@ header {
   justify-content: space-between;
 }
 
+.conteudo {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 #sidebar {
   background-color: #3f8d61;
   color: white;
