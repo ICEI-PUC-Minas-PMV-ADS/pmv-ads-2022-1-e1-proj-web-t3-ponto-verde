@@ -1,69 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="icons/pvicon.png" />
-    <link rel="stylesheet" href="index.css" />
-    <link rel="stylesheet" href="/css/styles.css" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/@mdi/font@6.6.96/css/materialdesignicons.min.css"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
-      rel="stylesheet"
-    />
-    <title>Pontos de coleta</title>
-    <script src="index.js"></script>
-  </head>
-  <body>
-    <div id="sidebar">
-      <div class="toggle-btn" onclick="show()">
-        <i class="mdi-menu"></i>
-        <h4>Menu</h4>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="icons/pvicon.png" />
+  <link rel="stylesheet" href="index.css" />
+  <link rel="stylesheet" href="/css/styles.css" />
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.6.96/css/materialdesignicons.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+  <title>Pontos de coleta</title>
+  <script src="index.js"></script>
+</head>
+
+<body>
+  <div id="sidebar">
+    <div class="toggle-btn" onclick="show()">
+      <i class="mdi-menu"></i>
+      <h4>Menu</h4>
+    </div>
+    <ul>
+      <li><a>Página Inicial</a></li>
+      <li>Minha Conta</a></li>
+      <li>Locais de Coleta</a></li>
+      <li>Agendar Coleta</a></li>
+      <li>Cestos Seletivos</a></li>
+      <li>Dicas e Técnicas</a></li>
+      <li>Requisitos Selo Verde</a></li>
+      <li>Notícias</a></li>
+      <li>Contato</a></li>
+    </ul>
+  </div>
+  <header>
+    <div style="width: 100px"></div>
+    <a><img src="icons/pvicon.svg" /></a>
+    <div style="width: 100px"></div>
+  </header>
+  <div class="conteudo">
+    <section>
+      <div class="titulo">
+        <h2 style="margin-top: 30px;">Locais de Coleta</h2>
       </div>
-      <ul>
-        <li><a>Página Inicial</a></li>
-        <li>Minha Conta</a></li>
-        <li>Locais de Coleta</a></li>
-        <li>Agendar Coleta</a></li>
-        <li>Cestos Seletivos</a></li>
-        <li>Dicas e Técnicas</a></li>
-        <li>Requisitos Selo Verde</a></li>
-        <li>Notícias</a></li>
-        <li>Contato</a></li>
-      </ul>
-    </div>
-    <header>
-      <div style="width: 100px"></div>
-      <a><img src="icons/pvicon.svg" /></a>
-      <div style="width: 100px"></div>
-    </header>
-    <div class="conteudo">
-      <section>
-        <div class="titulo">
-            <h2 style="margin-top: 30px;">Locais de Coleta</h2>
-        </div>
-        <div class="mapa">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240097.49510161835!2d-44.104138712946096!3d-19.902338634571056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa690cacacf2c33%3A0x5b35795e3ad23997!2sBelo%20Horizonte%2C%20MG!5e0!3m2!1spt-BR!2sbr!4v1651763936124!5m2!1spt-BR!2sbr"
-                width="310" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-        </div>
-        <article class="texto">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br /> Voluptatem sunt temporibus
-                molestiae dolores mollitia assumenda asperiores optio? <br />Omnis harum temporibus sunt.<br />
-                Eos ex tenetur voluptatem voluptatibus praesentium minima cum culpa?
-        </article>
-        <div class="subtitulo">
-            <h4>Agende sua Coleta</h4>
-        </div>
-        <div class="botao">
-            <button>Agendar</button>
-        </div>
+      <div class="mapa">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240097.49510161835!2d-44.104138712946096!3d-19.902338634571056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa690cacacf2c33%3A0x5b35795e3ad23997!2sBelo%20Horizonte%2C%20MG!5e0!3m2!1spt-BR!2sbr!4v1651763936124!5m2!1spt-BR!2sbr"
+          width="310" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      </div>
+      <article class="texto">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br /> Voluptatem sunt temporibus
+          molestiae dolores mollitia assumenda asperiores optio? <br />Omnis harum temporibus sunt.<br />
+          Eos ex tenetur voluptatem voluptatibus praesentium minima cum culpa?
+      </article>
+      <div class="subtitulo">
+        <h4>Agende sua Coleta</h4>
+      </div>
+      <div class="botao">
+        <button>Agendar</button>
+      </div>
     </section>
-    </div>
-  </body>
+  </div>
+</body>
+
 </html>

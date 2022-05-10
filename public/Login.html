@@ -1,61 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <style>
-        body{
-            font-family: 'Poppins', sans-serif;
-            background-image: linear-gradient (rgb(201, 191, 191), green);
-        }
-        div{
-            background-color: rgba(63, 141, 97, 1);
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            padding: 80px;
-        }
-        input{
-            padding: 15px;
-            border:none;
-            outline: none;
-            font-size: larger;
-        }
-        button{
-            background-color: dodgerblue;
-            border: none;
-            padding: 15px;
-            width: 100%;
-            border-radius: 10px;  
-            font-size: 18px;         
-        }
-        button:hover{
-            background-color: deepskyblue;
-            cursor: pointer;
-        }
-        :any-link{
-            text-decoration: none; color:black;
-        }
-    </style>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="icons/pvicon.png" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="css/login.css">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.6.96/css/materialdesignicons.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+    <title>Ponto Verde</title>
+    <script src="index.js"></script>
 </head>
+
 <body>
-    <div>
-        <h1 style="color: black;">Login</h1>
-        <input type="text"placeholder="Usuário">
-        <br><br>
-        <input type="password" placeholder="Senha">
-        <br><br>
-        <input type="checkbox" value="savepass" id="lembrarsenha">Lembrar senha
-        <br><br>
-        <a href="Home.html"><button>Entrar</button></a>
-        <br><br>
-        <a href="Home.html">Não possui conta?</a>  
-        <br><br>
-        <a href="Home.html">Esqueci minha senha</a> 
-        
+    <div id="sidebar">
+        <div class="toggle-btn" onclick="show()">
+            <i class="mdi-menu"></i>
+            <h4>Menu</h4>
+        </div>
+        <ul>
+            <li>Página Inicial</li>
+            <li>Minha Conta</li>
+            <li>Locais de Coleta</li>
+            <li>Agendar Coleta</li>
+            <li>Cestos Seletivos</li>
+            <li>Dicas e Técnicas</li>
+            <li>Requisitos Selo Verde</li>
+            <li>Notícias</li>
+            <li>Contato</li>
+        </ul>
+    </div>
+    <header>
+        <div style="width: 100px"></div>
+        <a><img src="icons/pvicon.svg" /></a>
+        <div style="width: 100px"></div>
+    </header>
+    <div class="conteudo">
+        <div>
+            <h1 style="color: black;">Login</h1>
+            <input type="text" placeholder="Usuário">
+            <br><br>
+            <input type="password" placeholder="Senha">
+            <br><br>
+            <input type="checkbox" value="savepass" id="lembrarsenha">Lembrar senha
+            <br><br>
+            <a href="Home.html"><button>Entrar</button></a>
+            <br><br>
+            <a href="Home.html">Não possui conta?</a>
+            <br><br>
+            <a href="Home.html">Esqueci minha senha</a>
+
+        </div>
     </div>
 </body>
+
 </html>
