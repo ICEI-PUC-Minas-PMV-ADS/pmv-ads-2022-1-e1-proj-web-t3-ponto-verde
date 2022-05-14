@@ -1,15 +1,41 @@
 # Programação de Funcionalidades
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+<h3> Tela de Login (RF04)</h3>
+A tela de login permite ao usuario fazer login no site, com a opçao de lembrar seu login/senha, tambem permite o usuário ser direcionado para a tela de cadastro, através do link "Não possui conta?" e também há uma opçao de "Esqueci minha senha" aonde o usuário que esqueceu sua senha, receberá um email para que o mesmo possa recuperar sua senha
+<br><br>
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+![image](https://user-images.githubusercontent.com/100742971/168402014-64c7768c-677a-4be1-a2cf-20e8c8db6715.png)
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+<h4>Requisitos atendidos</h4>
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+- RF04
+- RNF001
+
+<h4>Artefatos da funcionalidade</h4>
+
+- login.html
+- login.css
+
+<h4>Estrutura de dados</h4>
+
+            <h1 style="color: black;">Login</h1>
+            <input type="text" placeholder="Usuário">
+            <br><br>
+            <input type="password" placeholder="Senha">
+            <br><br>
+            <input type="checkbox" value="savepass" id="lembrarsenha">Lembrar senha
+            <br><br>
+            <a href="Home.html"><button>Entrar</button></a>
+            <br><br>
+            <a href="Home.html">Não possui conta?</a>
+            <br><br>
+            <a href="Home.html">Esqueci minha senha</a>
+
+Instruções de acesso
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/login.html 
