@@ -71,9 +71,9 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Interface intuitiva e amigável | Média | 
-|RNF-002| O site deve ser responsivo tanto em computadores quanto  em dispositivos móveis |  Baixa | 
-|RNF-003| Compatibilidade com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge) | Alta |
+|RNF001| Interface intuitiva e amigável | Média | 
+|RNF002| O site deve ser responsivo tanto em computadores quanto  em dispositivos móveis |  Baixa | 
+|RNF003| Compatibilidade com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge) | Alta |
 
 
 
