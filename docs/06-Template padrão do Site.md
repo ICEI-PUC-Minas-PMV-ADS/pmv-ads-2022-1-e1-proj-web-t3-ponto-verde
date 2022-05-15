@@ -1,6 +1,6 @@
 # Template padrão do site
 
-![image](img/template.jpg)
+![image](img/template.JPG)
 
 O template padrão é o modelo (HTML e CSS) que usaremos para criação e padronização das telas do site.
 Nosso modelo padrão e composto por:
