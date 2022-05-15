@@ -16,7 +16,6 @@ A tela de login permite ao usuario fazer login no site, com a opçao de lembrar 
 
 - login.html
 - login.css
-- pvicon.png
 
 <h4>Estrutura de dados</h4>
 
