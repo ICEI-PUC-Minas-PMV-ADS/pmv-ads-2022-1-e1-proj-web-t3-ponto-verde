@@ -98,3 +98,29 @@ Instruções de acesso
 - Abra o Visual Studio Code e execute o Live Server;
 - Abra um navegador de Internet e informe a seguinte URL:
 http://localhost:5500/login.html 
+
+<h3>Tela Locais de Coleta</h3>
+     
+![tela Locais de coleta](https://user-images.githubusercontent.com/101470892/168505416-961a1e26-156c-4f23-83ee-78ae81a79ad8.png)
+    
+Requisitos atendidos   
+
+- RF02 GEOLOCALIZAÇÃO
+- RF05 AGENDAMENTO DE COLETA
+
+<h3>Atefatos da funcionalidade</h3>
+
+● index.html
+
+● style.css
+
+<h3>Estrutura de dados</h3>
+
+![image](https://user-images.githubusercontent.com/101470892/168506773-fbec8488-be00-400d-9912-161c709a8b95.png)
+
+
+
+
+
+
+
