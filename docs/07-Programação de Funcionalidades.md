@@ -105,14 +105,14 @@ http://localhost:5500/login.html
     
 Requisitos atendidos   
 
-- RF02 GEOLOCALIZAÇÃO
-- RF05 AGENDAMENTO DE COLETA
+- RF02 Geolocalização
+- RF05 Agendamento de coleta
 
 <h3>Atefatos da funcionalidade</h3>
 
-● index.html
+ ● index.html
 
-● style.css
+ ● style.css
 
 <h3>Estrutura de dados</h3>
 
