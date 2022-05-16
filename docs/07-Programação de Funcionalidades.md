@@ -110,9 +110,8 @@ Requisitos atendidos
 
 <h3>Atefatos da funcionalidade</h3>
 
- ● index.html
-
- ● style.css
+- index.html
+- style.css
 
 <h3>Estrutura de dados</h3>
 
