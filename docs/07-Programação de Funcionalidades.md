@@ -21,36 +21,6 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 - home.html
 - home.css
 
-<h4>Estrutura de dados</h4>
-
-     <div class="conteudo">
-      <div class="box">
-        <h2 id="titulo"><b>Nossa Missão</b></h2>
-        <p>
-          A nossa missão é conscientizar sobre como o descarte correto pode
-          influenciar positivamente na saúde do planeta. Guiando com informações
-          sobre como reciclar, onde descartar, e os benefícios em direcionar os
-          resíduos recicláveis. Queremos trazer praticidade, seja para você ou
-          empresas que se interessam pela nossa causa.<br/><b>Seja Bem-Vindo(a)!</b>
-        </p>
-      </div>
-      <div id="imagem">
-        <img src="imgs/recicla.png" />
-      </div>
-  
-      <div class="box">
-        <h2 id="titulo"><b>Onde Descartar?</b></h2>
-        <p>
-          Reciclar nunca foi tão fácil!<br/>
-          Nossa logisitica só oferece benefícios para quem recicla. Trabalhamos
-          com empresas parceiras que coletam os resíduos recicláveis, seja em sua
-          casa, condomínio ou empresa. <br> Disponibilziamos também pontos fixos de
-          coleta.<br/>
-          <b>Obrigado por fazer parte desta ação.</b>
-        </p>
-      </div>
-    </div>
-
 
 Instruções de acesso
 
@@ -76,21 +46,6 @@ A tela de login permite ao usuario fazer login no site, com a opçao de lembrar 
 - login.html
 - login.css
 
-<h4>Estrutura de dados</h4>
-
-            <h1 style="color: black;">Login</h1>
-            <input type="text" placeholder="Usuário">
-            <br><br>
-            <input type="password" placeholder="Senha">
-            <br><br>
-            <input type="checkbox" value="savepass" id="lembrarsenha">Lembrar senha
-            <br><br>
-            <a href="Home.html"><button>Entrar</button></a>
-            <br><br>
-            <a href="Home.html">Não possui conta?</a>
-            <br><br>
-            <a href="Home.html">Esqueci minha senha</a>
-
 Instruções de acesso
 
 - Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
@@ -112,12 +67,6 @@ Requisitos atendidos
 
 - index.html
 - style.css
-
-<h3>Estrutura de dados</h3>
-
-![image](https://user-images.githubusercontent.com/101470892/168506773-fbec8488-be00-400d-9912-161c709a8b95.png)
-
-
 
 
 
