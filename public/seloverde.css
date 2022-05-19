@@ -16,10 +16,8 @@ body {
 .container {
     display: inline-block;
     width: 500px;
-    height: 10px;
-    text-align: center;
+    height:10px;
     text-indent: 30px;
-    top: 100px;
     justify-content: center;
     text-align: justify;
     margin-inline: 200px;
@@ -30,13 +28,11 @@ body {
     line-height: 3;
     color: rgba(63, 141, 97);
     text-align: center;
-
 }
 
-.tituloprincipal img {
-    width: 200px;
+.tituloprincipal #imagem img {
+    width: 150px;
     margin-inline: 35%;
     margin: 20px;
-    
 
 }
