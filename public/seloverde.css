@@ -8,24 +8,21 @@ body {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    margin-top: 90px;
+    margin-top: 80px;
     font-size: x-large;
-
 
 }
 
 .container {
     display: inline-block;
-    padding: 90px;
     width: 500px;
-    height: 50px;
+    height: 10px;
     text-align: center;
-    /*transform: translate */
     text-indent: 30px;
-    align-items: center;
+    top: 100px;
     justify-content: center;
-    top: 100%;
-    margin-inline: 100px;
+    text-align: justify;
+    margin-inline: 200px;
 }
 
 .container #titulo {
@@ -36,7 +33,7 @@ body {
 }
 
 .tituloprincipal img {
-    height: 250px;
+    height: 200px;
     margin-inline: 35%;
     margin: 40px;
 
