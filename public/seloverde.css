@@ -23,6 +23,7 @@ body {
     justify-content: center;
     text-align: justify;
     margin-inline: 200px;
+    
 }
 
 .container #titulo {
@@ -33,8 +34,9 @@ body {
 }
 
 .tituloprincipal img {
-    height: 200px;
+    width: 200px;
     margin-inline: 35%;
-    margin: 40px;
+    margin: 20px;
+    
 
 }
