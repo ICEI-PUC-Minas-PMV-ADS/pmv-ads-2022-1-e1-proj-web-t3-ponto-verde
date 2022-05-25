@@ -13,7 +13,7 @@ body {
 
 }
 
-.conteudo3 {
+.container {
     display: inline-block;
     width: 500px;
     height:10px;
@@ -24,7 +24,7 @@ body {
     
 }
 
-.conteudo3 #titulo {
+.container #titulo {
     line-height: 3;
     color: rgba(63, 141, 97);
     text-align: center;
