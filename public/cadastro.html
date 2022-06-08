@@ -12,8 +12,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Ponto Verde</title>
     <script src="index.js"></script>
+
 </head>
 
 <body>
@@ -40,29 +42,41 @@
         <div style="width: 100px"></div>
     </header>
     <div class="conteudo2">
-        <br><br>
-        <h1>Criar conta</h1>
-        <br>
-        Nome<p></p>
-        <input type="text" placeholder="Nome">
-        <br><br>
-        Endereço<p></p>
-        <input type="text" placeholder="Endereço">
-        <br><br>
-        Email<p></p>
-        <input type="email" placeholder="Email">
-        <br><br>
-        Telefone<p></p>
-        <input type="text" placeholder="Telefone">
-        <br><br>
-        CPF/CNPJ<p></p>
-        <input type="text" placeholder="CPF ou CNPJ">
-        <br><br>
-        Senha<p></p>
-        <input type="password" placeholder="Senha">
-        <br><br>
-        <a href="home.html"><button>Cadastrar</button></a>
+        <form class="card">
+            <br><br>
+            <h1>Criar conta</h1>
+            <br>
+            Nome<p></p>
+            <input type="text" placeholder="Digite seu nome" id="nome" required maxlength="35" minlength="3">
+            <span></span>
+            <br><br>
+            Endereço<p></p>
+            <input type="text" placeholder="Digite seu endereço" id="endereco" required maxlength="50" minlength="10">
+            <span></span>
+            <br><br>
+            Email<p></p>
+            <input type="email" placeholder="Digite seu email" id="email" required maxlength="30" minlength="3">
+            <span></span>
+            <br><br>
+            Telefone<p></p>
+            <input type="text" placeholder="Digite seu telefone" id="telefone" required maxlength="20" minlength="8">
+            <span></span>
+            <br><br>
+            CPF/CNPJ<p></p>
+            <input type="text" placeholder="Digite seu CPF/CNPJ" id="cpf" required maxlength="25" minlength="10">
+            <span></span>
+            <br><br>
+            Senha<p></p>
+            <input type="password" id="senha" placeholder="Digite sua senha" required minlength="6">
+            <span></span>
+            <i class="fa fa-eye" aria-hidden="true"></i>
+            <br><br>
+            <a href="home.html"><button onclick="cadastrar()">Cadastrar</button></a>
+        </form>
+
     </div>
+    <script src="js/cadastro.js"></script>
+
 </body>
 
 </html>
