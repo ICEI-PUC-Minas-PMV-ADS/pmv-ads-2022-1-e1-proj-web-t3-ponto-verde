@@ -37,3 +37,11 @@
         text-decoration: none;
         color: black;
     }
+
+    .fa-eye {
+        position: absolute;
+        top: 234px;
+        right: 90px;
+        cursor:pointer;
+        
+    }
