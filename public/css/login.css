@@ -45,3 +45,8 @@
         cursor:pointer;
         
     }
+
+    :any-link {
+        text-decoration: none;
+        color:aliceblue;
+      }

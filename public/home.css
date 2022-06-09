@@ -33,3 +33,8 @@ body {
 #imagem img {
   height: 300px;
 }
+
+:any-link {
+  text-decoration: none;
+  color:aliceblue;
+}
