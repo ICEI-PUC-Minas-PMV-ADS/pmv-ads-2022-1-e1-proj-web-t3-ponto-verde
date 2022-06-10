@@ -9,3 +9,12 @@ btn.addEventListener("click", () => {
         inputSenha.setAttribute("type", "password")
     }
 })
+
+function cadastrar (){
+    localStorage.nome = document.getElementById("nome").value;
+    localStorage.endereco = document.getElementById("endereco").value;
+    localStorage.email = document.getElementById("email").value;
+    localStorage.telefone = document.getElementById("telefone").value;
+    localStorage.cpf = document.getElementById("cpf").value;
+    localStorage.senha = document.getElementById("senha").value;
+}
