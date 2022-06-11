@@ -46,7 +46,8 @@ Objetivo: testar os campos.
 Execução dos campos: permite inserir dados. 
 
 Objetivo: testar a funcionalidade.
-- Botao Cadastrar: Botão corresponde enviando dados ao local storage
+- Botao Cadastrar: Botão corresponde enviando dados ao local storage.
+- Botao revelar senha: Corresponde trocando input da senha de password para text e vice-versa.
 
 
 Execução das funcionalidades: Funcionam, cadastro só é validado se todos campos forem preenchidos.
