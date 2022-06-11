@@ -29,3 +29,16 @@ body {
     bottom: 0px;
     margin-top: 200px;
 }
+button {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 103%;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: deepskyblue;
+    cursor: pointer;
+}
