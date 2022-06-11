@@ -9,20 +9,45 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 ## Testes Login:
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
-- Dimensões smartphone (iPhone Se, XR, 12 Pro, Galaxy S8+,  Galaxy S20 Ultra): não responsivo,
-- Dimensões da navegabilidade (1920 x 1080):  responsivo.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
 
 Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
 
 Objetivo: testar os campos.
-- Local do e-mail: aceita letras e números, necessario escrever @
-- Local da senha: permitindo letras e números, minímo de 6 caracteres
-- Local cadastre-se: botão corresponde enviando dados ao local storage
+- Campo do e-mail: aceita letras e números, necessário escrever @
+- Campo da senha: permitindo letras e números, minímo de 6 caracteres
+- Caixa Lembrar senha: Sem funcionalidade
 
 Execução dos campos: permite inserir dados. 
 
 Objetivo: testar a funcionalidade.
 - Botao Entrar: com alerta correspondente ("usuario ou senha invalido" ou "sucesso")
-- Local cadastre-se: leva para o local de cadastre-se.
+- Local Não possui conta?: leva para o local de cadastro.
 
-Execução das funcionalidades: funcionam exceto funcionalidade para recuperar a senha
+Execução das funcionalidades: Funcionam exceto funcionalidade para recuperar a senha e lembrar senha
+
+## Testes Cadastro:
+
+Objetivo: testar a responsividade no smartphone e navegabilidade.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
+
+Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
+Objetivo: testar os campos.
+- Campo do nome: Aceita letras e números, minímo de 3 caracteres, máximo de 35.
+- Campo do endereço: Aceita letras e números, minímo de 10 caracteres, máximo de 50.
+- Campo do e-mail: Aceita letras e números, necessário escrever @(arroba)
+- Campo do telefone: Aceita somente números, minímo de 8 caracteres, máximo de 20.
+- Campo do CPF: Aceita somente números, minímo de 10 caracteres, máximo de 25.
+- Campo da senha: Aceita letras e números, minímo de 6 caracteres
+
+Execução dos campos: permite inserir dados. 
+
+Objetivo: testar a funcionalidade.
+- Botao Cadastrar: Botão corresponde enviando dados ao local storage
+
+
+Execução das funcionalidades: Funcionam 
+
