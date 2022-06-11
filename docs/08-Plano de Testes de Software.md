@@ -66,7 +66,7 @@ Execução da responsividade: Navegabilidade responsivo, dimensões de smartphon
 Objetivo: testar os campos.
 - Campo do nome: Aceita letras e números, minímo de 3 caracteres, máximo de 35, campo requerido.
 - Campo do e-mail: Aceita letras e números, necessário escrever @(arroba), minímo de 3 caracteres, máximo de 35, campo requerido.
-- Campo do mensagem: Aceita letras e números, máximo de 220 caracteres.
+- Campo do mensagem: Aceita letras e números, máximo de 220 caracteres, campo requerido.
 
 Execução dos campos: permite inserir dados. 
 
