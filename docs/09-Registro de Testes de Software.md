@@ -13,4 +13,11 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 ## Login
 
+
+##Cadastro
+
 ![image](https://user-images.githubusercontent.com/100742971/173206557-69f01a60-03bf-4fa7-b178-2b21c96d826f.png)
+![image](https://user-images.githubusercontent.com/100742971/173206579-1a85a460-4f62-461e-8d1b-5a50a1de4050.png)
+![image](https://user-images.githubusercontent.com/100742971/173206591-c7989c46-3c8e-4c2f-8392-168a6f88d9e1.png)
+
+
