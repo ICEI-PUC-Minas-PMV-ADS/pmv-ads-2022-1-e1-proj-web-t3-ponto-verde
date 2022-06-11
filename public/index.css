@@ -49,3 +49,7 @@ header {
   left: 330px;
   cursor: pointer;
 }
+:any-link {
+  text-decoration: none;
+  color:aliceblue;
+}

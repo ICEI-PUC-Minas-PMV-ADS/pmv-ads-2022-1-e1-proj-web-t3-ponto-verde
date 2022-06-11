@@ -33,20 +33,15 @@
         cursor: pointer;
     }
 
-    :any-link {
-        text-decoration: none;
-        color: black;
-    }
-
     .fa-eye {
         position: absolute;
         top: 234px;
         right: 90px;
-        cursor:pointer;
-        
+        cursor: pointer;
+
     }
 
     :any-link {
         text-decoration: none;
-        color:aliceblue;
-      }
+        color: aliceblue;
+    }

@@ -1,0 +1,32 @@
+form {
+    width: 50%;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px
+    
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 1em;
+    font: 1em sans-serif;
+    border: 1px solid;
+}
+
+.row {
+    padding: 0 20px;
+    display: table;
+    width: 100%;
+}
+
+body {
+    background-color: white;
+}
+
+.card {
+    padding: 50px;
+    background-color: rgba(63, 141, 97, 1);
+    bottom: 0px;
+    margin-top: 200px;
+}
