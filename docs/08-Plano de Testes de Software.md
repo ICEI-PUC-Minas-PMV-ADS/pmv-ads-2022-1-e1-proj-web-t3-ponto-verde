@@ -6,6 +6,7 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas. 
 
+
 ## Testes Login:
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
@@ -26,6 +27,7 @@ Objetivo: testar a funcionalidade.
 - Local Não possui conta?: leva para o local de cadastro.
 
 Execução das funcionalidades: Funcionam exceto funcionalidade para recuperar a senha e lembrar senha
+
 
 ## Testes Cadastro:
 
@@ -51,4 +53,28 @@ Objetivo: testar a funcionalidade.
 
 
 Execução das funcionalidades: Funcionam, cadastro só é validado se todos campos forem preenchidos.
+
+
+## Testes Contato:
+
+Objetivo: testar a responsividade no smartphone e navegabilidade.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
+
+Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
+Objetivo: testar os campos.
+- Campo do nome: Aceita letras e números, minímo de 3 caracteres, máximo de 35, campo requerido.
+- Campo do e-mail: Aceita letras e números, necessário escrever @(arroba), minímo de 3 caracteres, máximo de 35, campo requerido.
+- Campo do mensagem: Aceita letras e números, máximo de 220 caracteres.
+
+Execução dos campos: permite inserir dados. 
+
+Objetivo: testar a funcionalidade.
+- Botao Enviar mensagem: Botão corresponde enviando os dados para o email designado atrávez de um formulário estático.
+
+Execução das funcionalidades: Funcionam.
+
+
+
 
