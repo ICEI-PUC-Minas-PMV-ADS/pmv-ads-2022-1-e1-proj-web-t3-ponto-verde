@@ -109,3 +109,7 @@
     font-size: larger;
 }
 
+:any-link {
+    text-decoration: none;
+    color:rgb(63, 141, 97, 1)
+  }
