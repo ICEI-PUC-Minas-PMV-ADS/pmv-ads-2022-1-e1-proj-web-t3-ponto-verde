@@ -11,7 +11,6 @@ A solução web tem como objetivo o desenvolvimento de um site responsivo e func
 ## Integrantes
 
 * Guilherme Faustini de Azevedo
-* Igor Aleksander Faustini Teixeira
 * Juliana Calazans Rodrigues de Magalhaes
 * Lucas Aquino dos Santos
 
