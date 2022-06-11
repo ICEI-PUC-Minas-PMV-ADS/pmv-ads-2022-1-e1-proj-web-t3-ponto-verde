@@ -49,5 +49,5 @@ Objetivo: testar a funcionalidade.
 - Botao Cadastrar: Botão corresponde enviando dados ao local storage
 
 
-Execução das funcionalidades: Funcionam 
+Execução das funcionalidades: Funcionam, cadastro só é validado se todos campos forem preenchidos.
 
