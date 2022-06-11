@@ -109,7 +109,8 @@
     font-size: larger;
 }
 
-:any-link body{
+.text2 :any-link{
     text-decoration: none;
-    color: white
+    color: green
   }
+
