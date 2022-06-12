@@ -51,5 +51,19 @@ header {
 }
 :any-link {
   text-decoration: none;
-  color:rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+
+button {
+  background-color: rgb(196, 196, 196);
+  border: none;
+  padding: 15px;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: #9e9e9e;
+  cursor: pointer;
 }

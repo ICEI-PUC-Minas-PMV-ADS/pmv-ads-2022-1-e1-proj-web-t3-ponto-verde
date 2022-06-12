@@ -13,7 +13,6 @@ function agendar() {
     const coleta = `{ "data": "${data}", "hora": "${hora}" }`
     lista = `${lista.replace(']}', '')}${coleta} ]}`
     lista = lista.replace('} {', '}, {')
-    const key = 'coleta-' + data + '-' + hora;
     localStorage.setItem('agendamentos', lista);
     console.log(localStorage.getItem('agendamentos'))
   }
@@ -23,7 +22,7 @@ function agendar() {
 }
 
 function listar() {
-  localStorage.array.forEach(element => {
+  JSON.parse(localStorage.getItem('agendamentos'))?.lista.forEach(element => {
     console.log(element)
   });
 }

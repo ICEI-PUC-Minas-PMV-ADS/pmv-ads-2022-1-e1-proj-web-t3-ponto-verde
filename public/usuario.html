@@ -18,6 +18,7 @@
     />
     <title>Ponto Verde</title>
     <script src="index.js"></script>
+    <script src="js/usuario.js"></script>
   </head>
 
   <body>
@@ -28,7 +29,7 @@
       </div>
       <ul>
         <li><a href="home.html">Página Inicial</a></li>
-        <li><a href="login.html">Minha Conta</a></li>
+        <li><a id="conta" href="usuario.html">Minha Conta</a></li>
         <li><a href="coleta.html">Locais de Coleta</a></li>
         <li><a href="agendar.html">Agendar Coleta</a></li>
         <li><a href="cestosseletivos.html">Cestos Seletivos</a></li>
@@ -42,8 +43,24 @@
       <div style="width: 100px"></div>
     </header>
     <div class="conteudo">
-      <div>
+      <div class="usuario">
         <img id="avatar" src="/public/imgs/img_avatar.png" alt="Avatar" />
+        <div class="campo">
+          <h3>Nome</h3>
+          <h4 id="nome"></h4>
+        </div>
+        <div class="campo">
+          <h3>Email</h3>
+          <h4 id="email"></h4>
+        </div>
+        <div class="campo">
+          <h3>Telefone</h3>
+          <h4 id="telefone"></h4>
+        </div>
+        <div class="historico" style="margin-top: 50px">
+          <h3>Historico de coleta</h3>
+          <ul id="historico"></ul>
+        </div>
       </div>
     </div>
   </body>

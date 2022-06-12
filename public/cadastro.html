@@ -26,18 +26,22 @@
         </div>
         <ul>
             <li><a href="home.html">Página Inicial</a></li>
-            <li><a href="login.html">Minha Conta</a></li>
-            <li><a href="coleta.html">Locais de Coleta</a></li>
+            <li><a href="usuario.html">Minha Conta</a></li>
+            <li><a href="coleta.html"</li:>Locais de Coleta</a></li>
             <li><a href="agendar.html">Agendar Coleta</a></li>
             <li><a href="cestosseletivos.html">Cestos Seletivos</a></li>
-            <li><a href="seloverde.html">Requisitos Selo Verde</a></li>
+            <li><a href="dicas.html"> Dicas e Técnicas<a/a></li>
+            <li><a href="requisitos.html">Requisitos Selo Verde</a></li>
+            <li><a href="noticias.html">Notícias</a></li>
             <li><a href="contato.html">Contato</a></li>
         </ul>
     </div>
     <header>
         <div style="width: 100px"></div>
         <a><img src="icons/pvicon.svg" /></a>
-        <div style="width: 100px"></div>
+        <div style="width: 100px">
+          <a id="login" href="login.html"><button>Login</button></a>
+        </div>
     </header>
     <div class="conteudo2">
         <form class="card">
@@ -57,11 +61,11 @@
             <span></span>
             <br><br>
             Telefone<p></p>
-            <input type="number" placeholder="Digite seu telefone" id="telefone" required maxlength="20" minlength="8">
+            <input type="text" placeholder="Digite seu telefone" id="telefone" required maxlength="20" minlength="8">
             <span></span>
             <br><br>
             CPF/CNPJ<p></p>
-            <input type="number" placeholder="Digite seu CPF/CNPJ" id="cpf" required maxlength="25" minlength="10">
+            <input type="text" placeholder="Digite seu CPF/CNPJ" id="cpf" required maxlength="25" minlength="10">
             <span></span>
             <br><br>
             Senha<p></p>
@@ -69,7 +73,7 @@
             <span></span>
             <i class="fa fa-eye" aria-hidden="true"></i>
             <br><br>
-            <a href="home.html"><button onclick="cadastrar()">Cadastrar</button></a>
+            <a href="home.html"><button type="submit">Cadastrar</button></a>
         </form>
 
     </div>
