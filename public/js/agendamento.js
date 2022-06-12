@@ -15,9 +15,11 @@ function agendar() {
     lista = lista.replace('} {', '}, {')
     localStorage.setItem('agendamentos', lista);
     console.log(localStorage.getItem('agendamentos'))
+    alert('Coleta agendada com sucesso!')
   }
   else {
     console.log('Dados invalidos!')
+    alert('Dados Invalidos!')
   }
 }
 
