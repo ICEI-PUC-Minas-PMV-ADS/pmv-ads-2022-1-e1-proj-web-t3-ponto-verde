@@ -13,6 +13,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
   <title>Ponto Verde</title>
   <script src="index.js"></script>
+  <script src="js/agendamento.js"></script>
+  <style>
+    button {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: deepskyblue;
+    cursor: pointer;
+}
+  </style>
 </head>
 
 <body>
@@ -28,7 +44,7 @@
       <li><a href="agendar.html">Agendar Coleta</a></li>
       <li><a href="cestosseletivos.html">Cestos Seletivos</a></li>
       <li><a href="seloverde.html">Requisitos Selo Verde</a></li>
-      <li><a href="contato.html">Contato</a></li>
+      <li><a href="contato.html"></a> Contato</a></li>
     </ul>
   </div>
   <header>
@@ -36,9 +52,25 @@
     <a><img src="icons/pvicon.svg" /></a>
     <div style="width: 100px"></div>
   </header>
-  <div class="conteudo">
-
+  <div class="conteudo" style="display: block; text-align: center;">
+    <div style="margin-bottom: 100px; margin-top: 50px;">
+      <h1>Agendamento de coleta</h1>
+    </div>
+    <div class="form" style="display: flex; justify-content: center; height: 300px;">
+      <div class="card" style="width: 340px;">
+        <img style="height: 70%;" src="imgs/calendario.png">
+      </div>
+      <div class="card">
+        <h3>Dia da coleta</h3>
+        <input id="datacol" type="date">
+        <h3>Hora</h3>
+        <input id="horacol" type="time">
+      </div>
+    </div>
+    <div class="buttons">
+      <button style="width: 120px;">Cancelar</button>
+      <button style="width: 120px;" onclick="agendar()">Agendar</button>
+    </div>
   </div>
 </body>
-
 </html>
