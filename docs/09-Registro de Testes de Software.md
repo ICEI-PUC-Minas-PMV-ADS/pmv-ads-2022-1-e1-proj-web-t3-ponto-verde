@@ -31,4 +31,8 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 ![image](https://user-images.githubusercontent.com/100742971/173207222-208846ee-220f-447f-aaea-4191d3baddeb.png)
 ![image](https://user-images.githubusercontent.com/100742971/173207229-27c9215a-b236-4ed1-9185-b16d94723264.png)
 
+## Agendamento de coleta
+A pagina de agendamento de coleta ultiliza o sistema de localstorage para armazenar os agendamentos, para que posteriormente possam ser exibidas na pagina do usuario.
+![image](https://user-images.githubusercontent.com/58490079/173256056-e5e4f168-0817-428e-b6dc-7d2ac44a6ac8.png)
+![image](https://user-images.githubusercontent.com/58490079/173256040-74fdf6c2-ec5d-406b-8a26-bb0269fe62e9.png)
 
