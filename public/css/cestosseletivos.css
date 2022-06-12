@@ -82,19 +82,19 @@
 }
 
 .text {
-    display: flexbox;
-    flex-direction: column;
+    display: inline-block;
     text-indent: 20px;
     margin-top: -300px;
     text-align: justify;
     margin-inline: 100px;
-    font-size:x-large;
+    font-size: larger;
 
 }
 
 #titulo {
     text-align: center;
     line-height: 2;
+    color: rgba(63, 141, 97);
 }
 
 .text2 {
@@ -107,10 +107,15 @@
     margin-inline: 100px;
     margin-left: 300px;
     font-size: larger;
+
 }
 
-.text2 :any-link{
-    text-decoration: none;
-    color: green
-  }
+#titulo2 {
+    color: rgba(63, 141, 97);
 
+}
+
+.text2 :any-link {
+    text-decoration: none;
+    color: green;
+}
