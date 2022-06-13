@@ -1,11 +1,5 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
-
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas. 
-
 
 ## Testes Login:
 
@@ -76,7 +70,7 @@ Objetivo: testar a funcionalidade.
 Execução das funcionalidades: Funcionam.
 
 
-## Testes Agendamento de coleto:
+## Testes Agendamento de coleta:
 
 Objetivo: Testar a funcionalidade.
 - campo Data: ultiliza um imput padrão do tipo "Date" para armazenar a data do agendamento.
@@ -84,4 +78,18 @@ Objetivo: Testar a funcionalidade.
 - Botão de agendamento: Armazena as informações apenas quando ambos os campos estiverem devidamente preenchidos.
 
 Execução: O armazenamendo funciona corretamente. 
+
+
+## Testes Cestos Seletivos:
+
+Objetivo: testar a responsividade no smartphone e navegabilidade.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
+
+Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
+Objetivo: testar a funcionalidade.
+- Botão Adquirir: Direciona para página de compras de cestos seletivos.
+
+Execução das funcionalidades: Funciona, abre nova guia para compras.
 
