@@ -71,7 +71,7 @@ Requisitos atendidos
 
 
 <h3> Tela Selo Verde</h3>
-A tela apresenta as informações sobre como adquirir o Selo Verde para empresas.
+A tela apresenta as informações e os requisitos para a obtenção do Selo Verde para empresas.
 A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 <br><br>
 
@@ -89,4 +89,21 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 - home.css
 
 
+<h3> Tela Cestos Seletivos</h3>
+A tela apresenta as informações sobre Cestos Seletivos. No final da tela, o botão "adquirir" direciona para tela de compras.
+A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
+<br><br>
 
+![image](https://user-images.githubusercontent.com/100734910/173262971-407dc719-7825-43e0-9627-27699e5a682e.png)
+![image](https://user-images.githubusercontent.com/100734910/173262921-8b59450a-e6d9-46f0-bc17-37677cd1dd08.png)
+
+<h4>Requisitos atendidos</h4>
+
+- RF08
+- RNF001
+- RNF003
+
+<h4>Artefatos da funcionalidade</h4>
+
+- home.html
+- home.css
