@@ -76,5 +76,12 @@ Objetivo: testar a funcionalidade.
 Execução das funcionalidades: Funcionam.
 
 
+## Testes Agendamento de coleto:
 
+Objetivo: Testar a funcionalidade.
+- campo Data: ultiliza um imput padrão do tipo "Date" para armazenar a data do agendamento.
+- campo Hora: ultiliza um imput padrão do tipo "Time" para armazenar o horario do agendamento.
+- Botão de agendamento: Armazena as informações apenas quando ambos os campos estiverem devidamente preenchidos.
+
+Execução: O armazenamendo funciona corretamente. 
 
