@@ -30,6 +30,7 @@ Instruções de acesso
 - Abra um navegador de Internet e informe a seguinte URL:
 http://localhost:5500/home.html 
 
+
 <h3> Tela de Login</h3>
 A tela de login permite ao usuario fazer login no site, com a opçao de lembrar seu login/senha, tambem permite o usuário ser direcionado para a tela de cadastro através do link "Não possui conta?" e também há uma opçao de "Esqueci minha senha", aonde o usuário que esqueceu sua senha receberá um email para que o mesmo possa recupera-la.
 <br><br>
@@ -69,6 +70,23 @@ Requisitos atendidos
 - style.css
 
 
+<h3> Tela Selo Verde</h3>
+A tela apresenta as informações sobre como adquirir o Selo Verde para empresas.
+A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/100734910/173263930-474871e1-bdca-4187-8024-3b029eb01c81.png)
+
+<h4>Requisitos atendidos</h4>
+
+- RF09
+- RNF001
+- RNF003
+
+<h4>Artefatos da funcionalidade</h4>
+
+- home.html
+- home.css
 
 
 
