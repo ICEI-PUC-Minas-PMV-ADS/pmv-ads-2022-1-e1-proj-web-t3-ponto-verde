@@ -47,15 +47,14 @@ A equipe está organizada da seguinte maneira:
   
 ### **Equipe de Desenvolvimento**
  
- Guilherme Azevedo
+ Guilherme Faustini
  
- Igor Aleksander
  
 ### **Equipe de Design**
  
- Guilherme Azevedo
+ Guilherme Faustini
  
- Igor Aleksander
+
  
  
  
