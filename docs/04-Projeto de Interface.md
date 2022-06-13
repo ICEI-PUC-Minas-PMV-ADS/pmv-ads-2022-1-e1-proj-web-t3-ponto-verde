@@ -59,16 +59,6 @@ A tela de cadastro de pessoa física é uma tela criada para os usuários que de
 ![image](https://user-images.githubusercontent.com/100734910/164870317-0e0ca114-f4cb-4455-9a3a-9874f0c0f090.png)
 
 
-
-### **Tela Cadastro - Pessoa Júridica**
-
-
-A tela de cadastro de pessoa jurídica é uma tela destinada as empresas que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em seu local e a compra dos cestos seletivos. Nela é oferecida um formulário em que o usuário responsável preenche as informações e endereço, criando o acesso a plataforma Ponto Verde. O usuário no final do cadastro, deve aceitar os termos e condições. 
-
-
-![image](https://user-images.githubusercontent.com/100734910/164752409-01075432-7c05-44f5-95ba-12c6a5ed510c.png)
-
-
 ### **Tela do Usuário**
 
 
@@ -111,24 +101,6 @@ A tela de compra é direcionada para os usuários interessados em adquirir cesto
 ![image](https://user-images.githubusercontent.com/100734910/164902381-d5d703eb-253c-4d8d-a83f-7c393aadad8d.png)
 
 
-### **Tela de Pagamento**
-
-
-A tela de pagamento é destinada para o usuário finalizar a obtenção dos cestos seletivos. Nela contém três metódos diferentes de pagamento.
-
-
-![image](https://user-images.githubusercontent.com/100734910/164481277-908a2fb8-e40c-41d6-822b-22093d26c8a0.png)
-
-
-### **Tela Dicas e Técnicas**
-
-
-A tela é destinada para os usuários que desejam se informarem sobre dicas e técnicas voltadas para reciclagem.
-
-
-![image](https://user-images.githubusercontent.com/100734910/164911604-8a5ef25a-6474-4322-9781-960f35714acb.png)
-
-
 ### **Tela Selo Verde**
 
 
@@ -136,16 +108,6 @@ A tela é direcionada para usuários a qual desejam se informarem para obtençã
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164911647-b1b4429c-3d36-4b6a-af5d-76ccf0854e09.png)
-
-
-
-### **Tela Notícias**
-
-
-A tela de notícias é destinada para informar usuários e visitantes da plataforma, as notícias atualizadas sobre reciclagem e sustentabilidade. A tela oferece ao leitor  a oportunidade de comentar sua opnião na opção de comentários.
-
-
-![image](https://user-images.githubusercontent.com/100734910/164895992-16c1b4d8-8122-4db0-b282-878fc1e5d920.png)
 
 
 ### **Tela Contato**
