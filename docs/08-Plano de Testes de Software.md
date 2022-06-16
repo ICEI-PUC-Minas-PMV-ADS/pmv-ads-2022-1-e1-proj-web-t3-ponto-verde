@@ -1,6 +1,23 @@
 # Plano de Testes de Software
 
 
+## Testes Home Page:
+
+Referência: 
+- CR01
+
+Descrição da tela:
+- Tela principal do site.
+- Lado direito da tela, botão de login.
+- Lado esquerdo da tela, botão menu.
+
+Objetivo: testar a responsividade no smartphone e navegabilidade.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
+
+Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
+
 ## Testes Login:
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
@@ -82,7 +99,8 @@ Execução: O armazenamendo funciona corretamente.
 
 ## Testes Cestos Seletivos:
 
-Referência: -CR08
+Referência: 
+- CR08
 
 Direcionamento: 
 - Clicar na opção "menu" ao lado esquerdo da tela.
