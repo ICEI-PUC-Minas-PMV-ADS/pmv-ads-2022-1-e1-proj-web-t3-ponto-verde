@@ -46,7 +46,7 @@ A pagina de agendamento de coleta ultiliza o sistema de localstorage para armaze
 
 ## Cestos Seletivos
 
-CR08
+CR07
 
 ![image](https://user-images.githubusercontent.com/100734910/173262971-407dc719-7825-43e0-9627-27699e5a682e.png)
 ![image](https://user-images.githubusercontent.com/100734910/173262921-8b59450a-e6d9-46f0-bc17-37677cd1dd08.png)
@@ -54,7 +54,7 @@ CR08
 
 # Selo Verde
 
-CR09
+CR08
 
 ![image](https://user-images.githubusercontent.com/100734910/173263930-474871e1-bdca-4187-8024-3b029eb01c81.png)
 
