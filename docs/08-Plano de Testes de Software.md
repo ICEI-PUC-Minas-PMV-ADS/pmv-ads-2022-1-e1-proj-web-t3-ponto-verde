@@ -100,7 +100,7 @@ Execução: O armazenamendo funciona corretamente.
 ## Testes Cestos Seletivos:
 
 Referência: 
-- CR08
+- CR07
 
 Direcionamento: 
 - Clicar na opção "menu" ao lado esquerdo da tela.
@@ -127,7 +127,7 @@ Execução das funcionalidades: Funciona, abre nova guia para compras.
 ## Testes Selo Verde:
 
 Referência: 
-- CR09
+- CR08
 
 Direcionamento: 
 - Clicar na opção "menu" ao lado esquerdo da tela.
