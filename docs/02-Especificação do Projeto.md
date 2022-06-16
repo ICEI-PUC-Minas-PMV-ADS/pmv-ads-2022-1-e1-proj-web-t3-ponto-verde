@@ -31,13 +31,10 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|---------------------------------------------------------------|----------------------------------------------------------------   |
 | José da Silva       | Solicitar coleta de lixo reciclável                           | Por não possuir meio adequado de transportar o lixo              |
 | José da Silva       | Obter informaçoes sobre como obter o selo empresa sustentável | Melhorar a imagem da empresa e redução de impostos               |
-| José da Silva       | Obter dicas e técnicas sobre reciclagem                       | Melhor aproveitamento dos reciclaveis                            |
 | Maria Gomes         | Obter informaçoes sobre a venda de cestos seletivos           | Facilitar a separação dos resíduos recicláveis e não recicláveis |
 | Maria Gomes         | Se informar sobre horários de coleta                          | Ajudar na logística de reciclagem do condomínio                  |
-| Maria Gomes         | Se informar com noticias atualizadas sobre reciclagem         | Me manter atualizado sobre as ultimas notícias                   |
-| Marcio Santos       | Se informar sobre técnicas de adubagem com materiais orgânicos| Diminuir os materiais orgânicos reaproveitando em forma de adubo | 
 | Marcio Santos       | Manter um registro de quantidade de resíduos reciclados       | Para facilitar o controle do volume de lixo reciclado            |
-| Marcio Santos       | Comentar nas notícias                                         | Interagir com os demais usuários                                 |
+
 
 
 
@@ -59,11 +56,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF04| O site deve apresentar funcionalidade de login e cadastro de usuários. | Alta |
 |RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável. | Alta |
 |RF06| O site deve conter uma tabela com horários de coleta de lixo por região | Média |
-|RF07| O site deve fornecer dicas e técnicas sobre como separar o lixo para destinar à reciclagem, assim como informações educativas sobre sustentabilidade.| Alta |
 |RF08| O site deve direcionar informações sobre a venda de cestos seletivos. | Alta |
 |RF09| O site deve informar os benefícios e requisitos para obtenção do selo verde. | Alta |   
-|RF11| O site deve apresentar notícias atualizadas sobre reciclagem. | Alta |
-|RF12| O usuário deve poder comentar as notícias. | Baixa | 
 
 
 ### Requisitos não Funcionaiss
