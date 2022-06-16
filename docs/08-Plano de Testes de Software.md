@@ -122,3 +122,23 @@ Objetivo: testar a funcionalidade.
 
 Execução das funcionalidades: Funciona, abre nova guia para compras.
 
+
+
+## Testes Selo Verde:
+
+Referência: 
+- CR09
+
+Direcionamento: 
+- Clicar na opção "menu" ao lado esquerdo da tela.
+- Selecionar página.
+
+Descrição da tela:
+- A tela demonstra em formato de texto sobre a obtenção do selo verde.
+
+Objetivo: testar a responsividade no smartphone e navegabilidade.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
+
+Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
