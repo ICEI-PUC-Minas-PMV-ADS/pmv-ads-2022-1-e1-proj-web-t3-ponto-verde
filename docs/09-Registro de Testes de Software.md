@@ -11,6 +11,13 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 
+## Home Page
+
+CR01
+
+![image](https://user-images.githubusercontent.com/100734910/168500443-e88d257e-04ed-49b4-b434-2d538b1bca09.png)
+
+
 ## Login
 
 ![image](https://user-images.githubusercontent.com/100742971/173206617-4886c973-2d29-4941-bcff-b8cc1a80e46a.png)
@@ -37,9 +44,18 @@ A pagina de agendamento de coleta ultiliza o sistema de localstorage para armaze
 ![image](https://user-images.githubusercontent.com/58490079/173256040-74fdf6c2-ec5d-406b-8a26-bb0269fe62e9.png)
 
 
-## Cestos Setivos
+## Cestos Seletivos
+
+CR08
 
 ![image](https://user-images.githubusercontent.com/100734910/173262971-407dc719-7825-43e0-9627-27699e5a682e.png)
 ![image](https://user-images.githubusercontent.com/100734910/173262921-8b59450a-e6d9-46f0-bc17-37677cd1dd08.png)
+
+
+# Selo Verde
+
+CR09
+
+![image](https://user-images.githubusercontent.com/100734910/173263930-474871e1-bdca-4187-8024-3b029eb01c81.png)
 
 
