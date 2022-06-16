@@ -22,7 +22,7 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 - home.css
 
 
-Instruções de acesso
+<h4>Instruções de acesso</h4>
 
 - Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
 - Descompacte o arquivo em uma pasta específica;
@@ -47,7 +47,7 @@ A tela de login permite ao usuario fazer login no site, com a opçao de lembrar 
 - login.html
 - login.css
 
-Instruções de acesso
+<h4>Instruções de acesso</h4>
 
 - Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
 - Descompacte o arquivo em uma pasta específica;
@@ -55,19 +55,35 @@ Instruções de acesso
 - Abra um navegador de Internet e informe a seguinte URL:
 http://localhost:5500/login.html 
 
+
 <h3>Tela Locais de Coleta</h3>
-     
-![tela Locais de coleta](https://user-images.githubusercontent.com/101470892/168505416-961a1e26-156c-4f23-83ee-78ae81a79ad8.png)
+ A tela apresenta funcionalidade de geolocalização e o botão "agendar" que direciona para a página de agendamento de coleta.
+A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
+<br><br> 
+
+   
+![image](https://user-images.githubusercontent.com/100734910/173971404-478616d6-d33b-4fa2-a75d-f2f67bd9f792.png)
+
     
 Requisitos atendidos   
 
-- RF02 Geolocalização
-- RF05 Agendamento de coleta
+- RF02 
+- RF05 
+- RNF003
+- RNF001
 
 <h3>Atefatos da funcionalidade</h3>
 
 - index.html
 - style.css
+
+<h4>Instruções de acesso</h4>
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/home.html 
 
 
 <h3> Tela Selo Verde</h3>
@@ -87,6 +103,14 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 
 - home.html
 - home.css
+
+<h4>Instruções de acesso</h4>
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/home.html 
 
 
 <h3> Tela Cestos Seletivos</h3>
