@@ -95,7 +95,7 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 
 <h4>Requisitos atendidos</h4>
 
-- RF09
+- RF08
 - RNF001
 - RNF003
 
@@ -123,7 +123,7 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 
 <h4>Requisitos atendidos</h4>
 
-- RF08
+- RF07
 - RNF001
 - RNF003
 
