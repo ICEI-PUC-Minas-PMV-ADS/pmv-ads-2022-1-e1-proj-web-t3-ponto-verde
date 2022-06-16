@@ -82,6 +82,17 @@ Execução: O armazenamendo funciona corretamente.
 
 ## Testes Cestos Seletivos:
 
+Referência: -CR08
+
+Direcionamento: 
+- Clicar na opção "menu" ao lado esquerdo da tela.
+- Selecionar página.
+
+Descrição da tela:
+- A tela demonstra em formato de slides, três imagens.
+- Descrição em formato de texto.
+- Botão "adquirir" que direciona para tela externa de compras.
+
 Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões smartphone: não responsivo,
 - Dimensões da navegabilidade (1920 x 1080): responsivo.
