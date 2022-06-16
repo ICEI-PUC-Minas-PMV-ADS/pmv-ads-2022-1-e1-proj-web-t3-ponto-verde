@@ -101,8 +101,8 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 
 <h4>Artefatos da funcionalidade</h4>
 
-- home.html
-- home.css
+- seloverde.html
+- seloverde.css
 
 <h4>Instruções de acesso</h4>
 
@@ -129,5 +129,6 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 
 <h4>Artefatos da funcionalidade</h4>
 
-- home.html
-- home.css
+- cestosseletivos.html
+- cestosseletivos.css
+- cestosseletivos.js
