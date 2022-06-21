@@ -14,11 +14,11 @@ body {
   width: 500px;
   height: 300px;
   /* margin-left: 100px; */
-  margin-top: 200px;
+  margin-top: 50px;
   align-items: center;
   text-align: justify;
-  color: aliceblue;
-  background-color: rgba(63, 141, 97);
+  color: black;
+
 }
 
 .box p {
@@ -26,13 +26,13 @@ body {
 }
 
 #imagem {
-  margin-top: 200px;
-  margin-inline: 40px;
+  position: fixed;
+  
+  margin-top: 300px;
+
 }
 
-#imagem img {
-  height: 300px;
-}
+
 
 :any-link {
   text-decoration: none;

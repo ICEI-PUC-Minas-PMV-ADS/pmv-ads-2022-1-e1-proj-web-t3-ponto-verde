@@ -6,19 +6,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -200px;
+    margin-top: -250px;
+    margin-bottom: -260px;
 }
 
 .slider {
     margin: 0 auto;
     width: 800px;
-    height: 400px;
+    height: 300px;
     overflow: hidden;
 }
 
 .slides {
     width: 400%;
-    height: 400px;
+    height: 300px;
     display: flex;
 }
 
@@ -34,7 +35,7 @@
 
 .slide img {
     width: 800px;
-    height: 400px;
+    height: 300px;
 }
 
 .manual-navigation {
@@ -84,29 +85,23 @@
 .text {
     display: inline-block;
     text-indent: 20px;
-    margin-top: -200px;
     text-align: justify;
-    margin-inline: 300px;
-    font-size: larger;
+    margin-inline: 200px;
+    
 
 }
 
 #titulo {
-    text-align: center;
-    line-height: 2;
     color: rgba(63, 141, 97);
 }
 
 .text2 {
-    display: block;
-    width: 25%;
-    height: 0px;
-    margin-top: 50px;
+    margin-top: 30px;
     justify-content: center;
     text-align: justify;
-    margin-inline: 0px;
-    margin-left: 400px;
-    font-size: larger;
+    margin-left: 200px;
+    
+    text-indent: 20px;
 }
 
 #titulo2 {
@@ -116,15 +111,31 @@
 
 .text3 :any-link {
     text-decoration: none;
-    color: green;
+    color:green;
 }
 
 .text3 {
-    display: block;
-    width: 25%;
-    text-align: justify;
+    width: 80%;
     margin-inline: 00px;
-    margin-left: 1000px;
-    font-size: larger;
-    margin-top: -3px;
+    margin-left: 200px;
+    
+    margin-top: 30px;
+    text-indent: 20px;
+}
+
+button:hover {
+    background-color: rgba(63, 141, 97);
+    cursor: pointer;
+}
+
+.btn-success {
+margin-top: 20px;
+size-adjust: 100px;
+background-color: rgb(20, 110, 60);
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
 }
