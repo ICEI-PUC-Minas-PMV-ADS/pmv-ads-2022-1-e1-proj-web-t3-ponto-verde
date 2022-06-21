@@ -30,6 +30,7 @@
         width: 100%;
         border-radius: 10px;
         font-size: 18px;
+        
     }
 
     button:hover {
@@ -47,5 +48,5 @@
 
     :any-link {
         text-decoration: none;
-        color: aliceblue;
+        color: rgb(0, 0, 0);
     }
