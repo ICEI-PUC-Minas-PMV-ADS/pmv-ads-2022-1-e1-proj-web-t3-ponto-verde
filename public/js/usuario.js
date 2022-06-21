@@ -4,6 +4,8 @@ window.addEventListener('load', () => {
   document.querySelector('#nome').innerHTML = usuario.nome
   document.querySelector('#email').innerHTML = usuario.email
   document.querySelector('#telefone').innerHTML = usuario.telefone
+  document.querySelector('#endereco').innerHTML = usuario.endereco
+  document.querySelector('#cpf').innerHTML = usuario.cpf
 
 
 
