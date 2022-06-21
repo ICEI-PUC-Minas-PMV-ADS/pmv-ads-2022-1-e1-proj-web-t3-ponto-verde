@@ -67,3 +67,9 @@ button:hover {
   background-color: #9e9e9e;
   cursor: pointer;
 }
+
+#login {
+  position: relative;
+  top: 30%;
+  left: 30%;
+}
