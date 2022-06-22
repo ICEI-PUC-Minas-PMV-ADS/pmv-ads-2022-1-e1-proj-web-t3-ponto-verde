@@ -25,5 +25,6 @@ function cadastrar() {
   usuarios.push(usuario)
   localStorage.setItem('usuarios', JSON.stringify(usuarios))
   localStorage.setItem('usuario', JSON.stringify(usuario))
-  window.location.replace("usuario.html");
+  alert("Cadastro realizado com sucesso!");
 }
+
