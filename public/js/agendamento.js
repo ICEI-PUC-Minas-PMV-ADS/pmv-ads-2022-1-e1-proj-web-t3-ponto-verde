@@ -1,19 +1,20 @@
 function agendar() {
   const data = document.getElementById('datacol').value;
   const hora = document.getElementById('horacol').value;
+  const endereco = document.getElementById('endereco').value;
+  const residuo = document.getElementById('residuo').value;
   if (data != '' && hora != '') {
-    let lista;
+    let agendamentos;
     if (localStorage.getItem('agendamentos') != null) {
-      lista = localStorage.getItem('agendamentos');
+      agendamentos = JSON.parse(localStorage.getItem('agendamentos'));
     }
     else {
-      lista = '{"lista": ['
+      agendamentos = []
     }
 
-    const coleta = `{ "data": "${data}", "hora": "${hora}" }`
-    lista = `${lista.replace(']}', '')}${coleta} ]}`
-    lista = lista.replace('} {', '}, {')
-    localStorage.setItem('agendamentos', lista);
+    const coleta = { data: data, hora: hora, endereco: endereco, residuo: residuo }
+    agendamentos.push(coleta);
+    localStorage.setItem('agendamentos', JSON.stringify(agendamentos));
     console.log(localStorage.getItem('agendamentos'))
     alert('Coleta agendada com sucesso!')
   }
@@ -22,6 +23,13 @@ function agendar() {
     alert('Dados Invalidos!')
   }
 }
+
+window.addEventListener('load', () => {
+  if (localStorage.getItem('usuario') !== null) {
+    let usuario = JSON.parse(localStorage.getItem('usuario'))
+    document.querySelector('#endereco').setAttribute('value', usuario.endereco)
+  }
+})
 
 function listar() {
   JSON.parse(localStorage.getItem('agendamentos'))?.lista.forEach(element => {

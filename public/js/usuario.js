@@ -10,7 +10,7 @@ window.addEventListener('load', () => {
 
 
   const agendamentos = JSON.parse(localStorage.getItem('agendamentos'))
-  agendamentos.lista.forEach(element => {
+  agendamentos.forEach(element => {
     const content = document.createElement('li')
     content.innerHTML = `${element.data} ${element.hora}`
     document.querySelector('#historico').append(content)
