@@ -79,3 +79,8 @@ button:hover {
 a:hover {
   color: rgb(44, 44, 44);
 }
+
+#logout:hover {
+  color: #cc3838;
+  cursor: pointer;
+}

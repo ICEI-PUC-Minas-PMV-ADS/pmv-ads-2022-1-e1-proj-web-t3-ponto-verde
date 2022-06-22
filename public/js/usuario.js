@@ -17,3 +17,8 @@ window.addEventListener('load', () => {
   });
 
 })
+
+function logout() {
+  localStorage.removeItem('usuario');
+  window.location.replace("home.html");
+}
