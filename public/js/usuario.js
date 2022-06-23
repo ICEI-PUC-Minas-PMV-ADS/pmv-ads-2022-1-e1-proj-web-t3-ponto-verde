@@ -12,7 +12,11 @@ window.addEventListener('load', () => {
   const agendamentos = JSON.parse(localStorage.getItem('agendamentos'))
   agendamentos.forEach(element => {
     const content = document.createElement('li')
-    content.innerHTML = `${element.data} ${element.hora}`
+    content.innerHTML = `<p>
+                           <span style="font-size: 13px">${element.data.replaceAll('-', '/')} ${element.hora}</span>
+                           <span style="color: #3f8d61">${element.residuo ?? ""}</span>
+                           <span>, ${element.endereco}</span>
+                         </p>`
     document.querySelector('#historico').append(content)
   });
 

@@ -17,11 +17,18 @@ function agendar() {
     localStorage.setItem('agendamentos', JSON.stringify(agendamentos));
     console.log(localStorage.getItem('agendamentos'))
     alert('Coleta agendada com sucesso!')
+    clearForm()
   }
   else {
     console.log('Dados invalidos!')
     alert('Dados Invalidos!')
   }
+}
+
+function clearForm() {
+  document.getElementById('datacol').value = ''
+  document.getElementById('horacol').value = ''
+  document.getElementById('residuo').value = ''
 }
 
 window.addEventListener('load', () => {
