@@ -1,82 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="icons/pvicon.png" />
-    <link rel="stylesheet" href="index.css" />
-    <link rel="stylesheet" href="css/agendar.css" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/@mdi/font@6.6.96/css/materialdesignicons.min.css"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
-      rel="stylesheet"
-    />
-    <title>Ponto Verde</title>
-    <script src="index.js"></script>
-    <script src="js/agendamento.js"></script>
-  </head>
 
-  <body>
-    <div id="sidebar">
-      <div class="toggle-btn" onclick="show()">
-        <i class="mdi mdi-menu"></i>
-        Menu
-      </div>
-      <ul>
-        <li><a href="home.html">Página Inicial</a></li>
-        <li><a id="conta" href="login.html">Minha Conta</a></li>
-        <li><a href="coleta.html">Locais de Coleta</a></li>
-        <li><a href="agendar.html">Agendar Coleta</a></li>
-        <li><a href="cestosseletivos.html">Cestos Seletivos</a></li>
-        <li><a href="seloverde.html">Requisitos Selo Verde</a></li>
-        <li><a href="contato.html">Contato</a></li>
-      </ul>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="icons/pvicon.png" />
+  <link rel="stylesheet" href="index.css" />
+  <link rel="stylesheet" href="css/agendar.css" />
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.6.96/css/materialdesignicons.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+  <title>Ponto Verde</title>
+  <script src="index.js"></script>
+  <script src="js/agendamento.js"></script>
+</head>
+
+<body>
+  <div id="sidebar">
+    <div class="toggle-btn" onclick="show()">
+      <i class="mdi mdi-menu"></i>
+      Menu
     </div>
-    <header>
-      <div style="width: 100px"></div>
-      <a href="home.html"><img src="icons/pvicon.svg" /></a>
-      <div style="width: 100px">
-        <a id="login" href="login.html">Login</a>
+    <ul>
+      <li><a href="home.html">Página Inicial</a></li>
+      <li><a id="conta" href="login.html">Minha Conta</a></li>
+      <li><a href="coleta.html">Locais de Coleta</a></li>
+      <li><a href="agendar.html">Agendar Coleta</a></li>
+      <li><a href="cestosseletivos.html">Cestos Seletivos</a></li>
+      <li><a href="seloverde.html">Requisitos Selo Verde</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+  </div>
+  <header>
+    <div style="width: 100px"></div>
+    <a href="home.html"><img src="icons/pvicon.svg" /></a>
+    <div style="width: 100px">
+      <a id="login" href="login.html">Login</a>
+    </div>
+  </header>
+  <div class="conteudo" style="display: block; text-align: center">
+    <div style="margin-bottom: 100px; margin-top: 50px">
+      <h1>Agendamento de coleta</h1>
+    </div>
+    <div class="form" style="display: flex; justify-content: center; height: 300px">
+      <div class="card" style="width: 340px">
+        <img style="height: 70%" src="imgs/calendario.png" />
       </div>
-    </header>
-    <div class="conteudo" style="display: block; text-align: center">
-      <div style="margin-bottom: 100px; margin-top: 50px">
-        <h1>Agendamento de coleta</h1>
-      </div>
-      <div
-        class="form"
-        style="display: flex; justify-content: center; height: 300px"
-      >
-        <div class="card" style="width: 340px">
-          <img style="height: 70%" src="imgs/calendario.png" />
-        </div>
-        <div class="card">
-          <h3>Endereço de coleta</h3>
-          <input id="endereco" type="text" />
-          <h3>Tipo de residuo</h3>
-          <input
-            id="residuo"
-            type="text"
-            placeholder="Ex: Metais, Lixo eletronico etc..."
-          />
-          <h3>Dia da coleta</h3>
-          <input id="datacol" type="date" />
-          <h3>Hora</h3>
-          <input id="horacol" type="time" />
-        </div>
-      </div>
-      <div class="buttons">
-        <a href="coleta.html">
-          <button style="width: 200px">Cancelar</button></a
-        >
-
-        <button style="width: 200px" onclick="agendar()">Agendar</button>
+      <div class="card">
+        <h3>Endereço de coleta</h3>
+        <input id="endereco" type="text" />
+        <h3>Tipo de residuo</h3>
+        <input id="residuo" type="text" placeholder="Ex: Papel, Plástico, Metal" />
+        <h3>Dia da coleta</h3>
+        <input id="datacol" type="date" />
+        <h3>Hora</h3>
+        <input id="horacol" type="time" />
       </div>
     </div>
-  </body>
+    <div class="buttons">
+      <a href="javascript:history.back()">
+        <button style="width: 200px">Cancelar</button></a>
+
+      <button style="width: 200px" onclick="agendar()">Agendar</button>
+    </div>
+  </div>
+</body>
+
 </html>
