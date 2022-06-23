@@ -13,9 +13,9 @@ window.addEventListener('load', () => {
   agendamentos.forEach(element => {
     const content = document.createElement('li')
     content.innerHTML = `<p>
-                           <span style="font-size: 13px">${element.data.replaceAll('-', '/')} ${element.hora}</span>
-                           <span style="color: #3f8d61">${element.residuo ?? ""}</span>
-                           <span>, ${element.endereco}</span>
+                           <span style="font-size: 16px"> ${element.data.replaceAll('-', '/')} - ${element.hora}</span> -
+                           <span style="color: green"> ${element.residuo ?? ""}</span>
+                           <span>- ${element.endereco}</span>
                          </p>`
     document.querySelector('#historico').append(content)
   });
