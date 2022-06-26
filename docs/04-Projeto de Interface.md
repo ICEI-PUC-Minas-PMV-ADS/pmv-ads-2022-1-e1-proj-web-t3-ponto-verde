@@ -11,7 +11,7 @@ A criação da interface do sistema foi desenvolvida para proporcionar praticida
 Conforme demonstrado a seguir, a *Figura 3* mostra o diagrama de fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é aprofundada na seção de Wireframes.
 
 
-![image](https://user-images.githubusercontent.com/100734910/164912212-66d748cc-f897-425f-bc5f-c17e6ffba4e7.png)
+![image](https://user-images.githubusercontent.com/100734910/175835597-49236f0d-b96c-4a5c-91e0-2032a8cd7b6a.png)
 
 
 
@@ -53,7 +53,7 @@ A tela de Login é a primeira página disponível para o usuário acessar, nela 
 ### **Tela Cadastro - Pessoa Física**
 
 
-A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência e a compra dos cestos seletivos. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. No final do cadastro, deve aceitar os termos e condições.
+A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência e a compra dos cestos seletivos. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. 
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164870317-0e0ca114-f4cb-4455-9a3a-9874f0c0f090.png)
@@ -64,7 +64,7 @@ A tela de cadastro de pessoa física é uma tela criada para os usuários que de
 
 A tela do usuário contém todas as informações cadastradas no sistema. Nela é mostrada o formulário com as informações pessoais, endereços, históricos de compras e um botão para clicar e direcionar a tela de histórico de coleta. Há a possibilidade de alterar os dados e salvá-los, também é permitido alterar a foto de perfil.
 
-![image](https://user-images.githubusercontent.com/100734910/164896590-1beb2e9e-560d-49c4-8129-bd3531d50a1f.png)
+![image](https://user-images.githubusercontent.com/100734910/175835733-f667e065-a9c7-461c-b8f4-f703f8a27439.png)
 
 
 ### **Tela Locais de Coleta**
@@ -98,7 +98,7 @@ A tela histórico de coleta é destinada para usuários cadastrados no sistema. 
 A tela de compra é direcionada para os usuários interessados em adquirir cestos seletivos. Nela contém a imagem do produto ofertado, botão de selecionar a quantidade, utilidade, valor, opção de calcular o frete. O botão comprar direciona o usuário para a tela de pagamento.
 
 
-![image](https://user-images.githubusercontent.com/100734910/164902381-d5d703eb-253c-4d8d-a83f-7c393aadad8d.png)
+![image](https://user-images.githubusercontent.com/100734910/175835702-090cb1c0-bf21-4960-a020-9ef3bbac0d25.png)
 
 
 ### **Tela Selo Verde**
