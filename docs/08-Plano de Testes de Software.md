@@ -3,13 +3,16 @@
 
 ## Testes Home Page:
 
-Referência: 
-- CR01
+Caso de teste: 
+- CT-01
 
-Descrição da tela:
-- Tela principal do site.
-- Lado direito da tela, botão de login.
-- Lado esquerdo da tela, botão menu.
+Requisitos Associados:
+- RF01 O site deve apresentar na página principal os conteúdos referentes ao nome do site, serviços e os propósitos envolvidos no processo da reciclagem.
+
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões smartphone: não responsivo,
@@ -19,6 +22,18 @@ Execução da responsividade: Navegabilidade responsivo, dimensões de smartphon
 
 
 ## Testes Login:
+
+Caso de teste: 
+- CT-02
+
+Requisitos Associados:
+- RF04 O site deve apresentar funcionalidade de login e cadastro de usuários.
+
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar no botão de login no canto direito da tela
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões smartphone: não responsivo,
@@ -41,6 +56,19 @@ Execução das funcionalidades: Funcionam exceto funcionalidade para recuperar a
 
 
 ## Testes Cadastro:
+
+Caso de teste: 
+- CT-03
+
+Requisitos Associados:
+- RF04 O site deve apresentar funcionalidade de login e cadastro de usuários.
+
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar no botão de login no canto direito da tela
+5) Clicar no botão "não possui uma conta?" realizar cadastro
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões smartphone: não responsivo,
@@ -68,6 +96,19 @@ Execução das funcionalidades: Funcionam, cadastro só é validado se todos cam
 
 ## Testes Contato:
 
+Caso de teste: 
+- CT-04
+
+Requisitos Associados:
+- RF06 O site deve conter uma página com disponibilidade para o usuário entrar em contato com a plataforma.
+
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar no botão menu no canto esquerdo da tela
+5) Clicar na opção contato
+
 Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões smartphone: não responsivo,
 - Dimensões da navegabilidade (1920 x 1080): responsivo.
@@ -89,6 +130,9 @@ Execução das funcionalidades: Funcionam.
 
 ## Testes Agendamento de coleta:
 
+Caso de teste: 
+- CT-05
+
 Objetivo: Testar a funcionalidade.
 - campo Data: ultiliza um imput padrão do tipo "Date" para armazenar a data do agendamento.
 - campo Hora: ultiliza um imput padrão do tipo "Time" para armazenar o horario do agendamento.
@@ -99,17 +143,18 @@ Execução: O armazenamendo funciona corretamente.
 
 ## Testes Cestos Seletivos:
 
-Referência: 
-- CR07
+Caso de teste: 
+- CT-06
 
-Direcionamento: 
-- Clicar na opção "menu" ao lado esquerdo da tela.
-- Selecionar página.
+Requisitos Associados:
+- RF07 O site deve informar sobre cestos seletivos e direcionar para compra.
 
-Descrição da tela:
-- A tela demonstra em formato de slides, três imagens.
-- Descrição em formato de texto.
-- Botão "adquirir" que direciona para tela externa de compras.
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar no botão menu no canto esquerdo da tela
+5) Clicar na opção Cestos Seletivos
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões smartphone: não responsivo,
@@ -126,15 +171,18 @@ Execução das funcionalidades: Funciona, abre nova guia para compras.
 
 ## Testes Selo Verde:
 
-Referência: 
-- CR08
+Caso de teste: 
+- CT-07
 
-Direcionamento: 
-- Clicar na opção "menu" ao lado esquerdo da tela.
-- Selecionar página.
+Requisitos Associados:
+- RF08 O site deve informar os benefícios e requisitos para obtenção do selo verde.
 
-Descrição da tela:
-- A tela demonstra em formato de texto sobre a obtenção do selo verde.
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar no botão menu no canto esquerdo da tela
+5) Clicar na opção Requisitos Selo Verde
 
 Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões smartphone: não responsivo,
