@@ -13,7 +13,7 @@ function logar() {
   else {
     console.log('Sucesso')
     localStorage.setItem('usuario', JSON.stringify(usuario))
-    window.location.replace("home.html");
+    window.location.replace("index.html");
   }
 
 
