@@ -44,13 +44,13 @@ A tela Menu é um recurso disponível em todas as telas da plataforma. A opção
 ### **Tela de Login**
 
 
-A tela de Login é a primeira página disponível para o usuário acessar, nela é apresentada a opção de e-mail e senha, a qual deve ser preenchida com os dados cadastrados na tela de cadastro. Caso tenha esquecido o seu login ou senha, há uma opção “esqueci minha senha” para ajudá-lo(a). O novo usuário da plataforma que deseje registrar no sistema, é possível realizar através da opção "não possui uma conta?".
+A tela de Login é a primeira página disponível para o usuário acessar, nela é apresentada a opção de e-mail e senha, a qual deve ser preenchida com os dados cadastrados na tela de cadastro. O novo usuário da plataforma que deseje registrar no sistema, é possível realizar através da opção "não possui uma conta?".
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164910689-9cb9f3b1-e700-4efb-b402-b00acde51869.png)
 
 
-### **Tela Cadastro - Pessoa Física**
+### **Tela Cadastro**
 
 
 A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência e a compra dos cestos seletivos. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. 
@@ -62,7 +62,8 @@ A tela de cadastro de pessoa física é uma tela criada para os usuários que de
 ### **Tela do Usuário**
 
 
-A tela do usuário contém todas as informações cadastradas no sistema. Nela é mostrada o formulário com as informações pessoais, endereços, históricos de compras e um botão para clicar e direcionar a tela de histórico de coleta. Há a possibilidade de alterar os dados e salvá-los, também é permitido alterar a foto de perfil.
+A tela do usuário contém todas as informações cadastradas no sistema. Nela é mostrada o formulário com as informações pessoais, endereços e histórico de coleta.
+
 
 ![image](https://user-images.githubusercontent.com/100734910/175835733-f667e065-a9c7-461c-b8f4-f703f8a27439.png)
 
@@ -84,18 +85,10 @@ A tela de agendamento é uma tela voltada para o usuário agendar a retirada dos
 ![image](https://user-images.githubusercontent.com/100734910/164911532-b9d8941a-c9e7-44a3-833a-93e04c30294b.png)
 
 
-### **Tela Histórico de Coleta**
-
-A tela histórico de coleta é destinada para usuários cadastrados no sistema. Nela oferece a opção de escolher o dia, logo após selecionar, a tela apresenta uma tabela separada por grupos de resíduos e a quantidade reciclada.
-
-
-![image](https://user-images.githubusercontent.com/100734910/164845074-9d673111-a3d4-4663-b826-8644e0c56e9e.png)
-
-
 ### **Tela de Compra- Cestos Seletivos**
 
 
-A tela de compra é direcionada para os usuários interessados em adquirir cestos seletivos. Nela contém a imagem do produto ofertado, botão de selecionar a quantidade, utilidade, valor, opção de calcular o frete. O botão comprar direciona o usuário para a tela de pagamento.
+A tela de compra é direcionada para os usuários interessados em conhecer e adquirir cestos seletivos. Nela contém um botão que direciona o usuário para sites externos de venda de cestos.
 
 
 ![image](https://user-images.githubusercontent.com/100734910/175835702-090cb1c0-bf21-4960-a020-9ef3bbac0d25.png)
