@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="icons/pvicon.png" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="css/cadastro.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@6.6.96/css/materialdesignicons.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <title>Ponto Verde</title>
+    <script src="index.js"></script>
+  </head>
+
+  <body>
+    <div id="sidebar">
+      <div class="toggle-btn" onclick="show()">
+        <i class="mdi-menu"></i>
+        Menu
+      </div>
+      <ul>
+        <li><a href="home.html">Página Inicial</a></li>
+        <li><a id="conta" href="login.html">Minha Conta</a></li>
+        <li><a href="coleta.html">Locais de Coleta</a></li>
+        <li><a href="agendar.html">Agendar Coleta</a></li>
+        <li><a href="cestosseletivos.html">Cestos Seletivos</a></li>
+        <li><a href="seloverde.html">Requisitos Selo Verde</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </div>
+    <header>
+      <div style="width: 100px"></div>
+      <a href="home.html"><img src="icons/pvicon.svg" /></a>
+      <div style="width: 100px">
+        <a id="login" href="login.html">Login</a>
+      </div>
+    </header>
+    <div class="conteudo2">
+      <form class="card" action="home.html">
+        <br /><br />
+        <h1>Criar conta</h1>
+        <br />
+        Nome
+        <p></p>
+        <input
+          type="text"
+          placeholder="Digite seu nome"
+          id="nome"
+          required
+          maxlength="35"
+          minlength="3"
+        />
+        <span></span>
+        <br /><br />
+        Endereço
+        <p></p>
+        <input
+          type="text"
+          placeholder="Digite seu endereço"
+          id="endereco"
+          required
+          maxlength="50"
+          minlength="10"
+        />
+        <span></span>
+        <br /><br />
+        Email
+        <p></p>
+        <input
+          type="email"
+          placeholder="Digite seu email"
+          id="email"
+          required
+          maxlength="30"
+          minlength="3"
+        />
+        <span></span>
+        <br /><br />
+        Telefone
+        <p></p>
+        <input
+          type="text"
+          placeholder="Digite seu telefone"
+          id="telefone"
+          required
+          maxlength="20"
+          minlength="8"
+        />
+        <span></span>
+        <br /><br />
+        CPF/CNPJ
+        <p></p>
+        <input
+          type="text"
+          placeholder="Digite seu CPF/CNPJ"
+          id="cpf"
+          required
+          maxlength="25"
+          minlength="10"
+        />
+        <span></span>
+        <br /><br />
+        Senha
+        <p></p>
+        <input
+          type="password"
+          id="senha"
+          placeholder="Digite sua senha"
+          required
+          minlength="6"
+        />
+        <span></span>
+        <i class="fa fa-eye" aria-hidden="true"></i>
+        <br /><br />
+        <a href="home.html"><button type="submit">Cadastrar</button></a>
+      </form>
+    </div>
+    <script src="js/cadastro.js"></script>
+  </body>
+</html>

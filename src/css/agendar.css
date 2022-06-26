@@ -1,0 +1,7 @@
+button {
+    background-color: dodgerblue;
+}
+button:hover {
+    background-color: deepskyblue;
+    cursor: pointer;
+}

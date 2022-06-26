@@ -1,0 +1,63 @@
+button {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: deepskyblue;
+    cursor: pointer;
+}
+
+.conteudo2 {
+    background-color: rgba(63, 141, 97, 1);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    padding: 80px;
+    padding-top: 0px;
+    padding-bottom: 60px;
+}
+
+input {
+    padding: 0px;
+    border: none;
+    outline: none;
+    font-size: medium;
+    width: 300px;
+}
+
+.fa-eye {
+    position: absolute;
+    top: 526px;
+    right: 105px;
+    cursor: pointer;
+    color: 272626;
+}
+
+input:invalid, textarea:invalid {
+    border-color: red;
+}
+
+input:valid, textarea:valid{
+    border-color: green;
+}
+
+span {
+    position: relative;
+    font-weight: bold;
+}
+
+input:invalid + span::before, textarea:invalid + span::before {
+    content: "✖";
+    color:rgba(63, 141, 97, 1);
+}
+
+input:valid + span::before, textarea:valid + span::before {
+    content: "✓";
+    color: blue
+}

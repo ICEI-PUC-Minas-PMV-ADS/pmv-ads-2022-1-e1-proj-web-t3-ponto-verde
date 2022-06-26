@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="icons/pvicon.png" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="css/contato.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@6.6.96/css/materialdesignicons.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <title>Ponto Verde</title>
+    <script src="index.js"></script>
+  </head>
+
+  <body>
+    <div id="sidebar">
+      <div class="toggle-btn" onclick="show()">
+        <i class="mdi-menu"></i>
+        Menu
+      </div>
+      <ul>
+        <li><a href="home.html">Página Inicial</a></li>
+        <li><a id="conta" href="login.html">Minha Conta</a></li>
+        <li><a href="coleta.html">Locais de Coleta</a></li>
+        <li><a href="agendar.html">Agendar Coleta</a></li>
+        <li><a href="cestosseletivos.html">Cestos Seletivos</a></li>
+        <li><a href="seloverde.html">Requisitos Selo Verde</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </div>
+    <header>
+      <div style="width: 100px"></div>
+      <a href="home.html"><img src="icons/pvicon.svg"/></a>
+      <div style="width: 100px">
+        <a id="login" href="login.html">Login</a>
+      </div>
+    </header>
+    
+    <div class="row">
+      <form
+        action="https://api.staticforms.xyz/submit"
+        method="post"
+        class="card"
+      >
+        <input
+          type="hidden"
+          name="accessKey"
+          value="b1a77a28-cc7e-4b9b-b054-b1ef638f1a4b"
+        />
+        <input
+          type="hidden"
+          name="redirectTo"
+          value="http://127.0.0.1:5501/public/contato.html"
+        />
+        <label for="inputNome"> Nome:</label>
+        <input
+          type="text"
+          placeholder="Digite seu nome"
+          id="inputNome"
+          name="name"
+          required
+          maxlength="35"
+          minlength="3"
+        />
+        <label for="inputEmail"> Email:</label>
+        <input
+          type="email"
+          placeholder="Digite seu email"
+          id="inputEmail"
+          name="email"
+          required
+          maxlength="35"
+          minlength="3"
+        />
+        <label for="inputMensagem"> Mensagem:</label>
+        <textarea
+          name="message"
+          id="textAreaMensagem"
+          placeholder="Digite sua mensagem"
+          rows="5"
+          maxlength="220"
+        ></textarea>
+        <button>Enviar mensagem</button>
+      </form>
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.tituloprincipal {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: x-large;
+
+}
+
+.conteudo3 {
+    display: inline-block;
+    width: 500px;
+    height: px;
+    text-indent: 30px;
+    justify-content: center;
+    text-align: justify;
+    margin-inline: 200px;
+    
+}
+
+.conteudo3 #titulo {
+    line-height: 3;
+    color: rgba(63, 141, 97);
+    text-align: center;
+}
+
+.tituloprincipal #imagem img {
+    width: 150px;
+    margin-inline: 35%;
+    margin: 20px;
+
+}
