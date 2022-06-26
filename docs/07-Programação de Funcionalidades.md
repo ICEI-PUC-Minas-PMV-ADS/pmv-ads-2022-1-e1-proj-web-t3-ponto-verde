@@ -118,8 +118,8 @@ A tela apresenta as informações sobre Cestos Seletivos. No final da tela, o bo
 A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 <br><br>
 
-![image](https://user-images.githubusercontent.com/100734910/173262971-407dc719-7825-43e0-9627-27699e5a682e.png)
-![image](https://user-images.githubusercontent.com/100734910/173262921-8b59450a-e6d9-46f0-bc17-37677cd1dd08.png)
+![image](https://user-images.githubusercontent.com/100734910/175836564-57455371-4165-468c-8d61-5ae989ac98bf.png)
+
 
 <h4>Requisitos atendidos</h4>
 
