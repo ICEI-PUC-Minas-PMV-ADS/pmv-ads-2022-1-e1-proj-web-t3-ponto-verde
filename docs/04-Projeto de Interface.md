@@ -53,7 +53,7 @@ A tela de Login é a primeira página disponível para o usuário acessar, nela 
 ### **Tela Cadastro**
 
 
-A tela de cadastro de pessoa física é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência e a compra dos cestos seletivos. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. 
+A tela de cadastro é uma tela criada para os usuários que desejam cadastrar, para agendar a retirada dos resíduos recicláveis em sua residência e a compra dos cestos seletivos. Nela é oferecida um formulário em que o usuário preenche suas informações pessoais e seu endereço residencial, criando o acesso a plataforma Ponto Verde. 
 
 
 ![image](https://user-images.githubusercontent.com/100734910/164870317-0e0ca114-f4cb-4455-9a3a-9874f0c0f090.png)
@@ -85,7 +85,7 @@ A tela de agendamento é uma tela voltada para o usuário agendar a retirada dos
 ![image](https://user-images.githubusercontent.com/100734910/164911532-b9d8941a-c9e7-44a3-833a-93e04c30294b.png)
 
 
-### **Tela de Compra- Cestos Seletivos**
+### **Tela Cestos Seletivos**
 
 
 A tela de compra é direcionada para os usuários interessados em conhecer e adquirir cestos seletivos. Nela contém um botão que direciona o usuário para sites externos de venda de cestos.
