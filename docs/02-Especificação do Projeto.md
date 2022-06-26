@@ -52,7 +52,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |------|-----------------------------------------|----|
 |RF01| O site deve apresentar na página principal os conteúdos referentes ao nome do site, serviços e os propósitos envolvidos no processo da reciclagem. | Alta |
 |RF02| O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região. | Média |
-|RF03| O site deve apresentar uma página de histórico(log) de todas coletas e reciclagens realizadas. | Média |
+|RF03| O site deve apresentar uma página com o cadastro do usuário e histórico(log) de todas coletas e reciclagens realizadas. | Média |
 |RF04| O site deve apresentar funcionalidade de login e cadastro de usuários. | Alta |
 |RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável. | Alta |
 |RF06| O site deve conter uma página com disponibilidade para o usuário entrar em contato com a plataforma. | Média |
