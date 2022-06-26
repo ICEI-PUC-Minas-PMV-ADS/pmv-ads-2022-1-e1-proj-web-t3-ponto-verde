@@ -34,7 +34,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 | Maria Gomes         | Obter informaçoes sobre a venda de cestos seletivos           | Facilitar a separação dos resíduos recicláveis e não recicláveis |
 | Maria Gomes         | Se informar sobre horários de coleta                          | Ajudar na logística de reciclagem do condomínio                  |
 | Marcio Santos       | Manter um registro de quantidade de resíduos reciclados       | Para facilitar o controle do volume de lixo reciclado            |
-
+| Marcio Santos       | Ter a disponbilidade de tirar dúvidas no site.                | Manter o contato direto com a plataforma
 
 
 
@@ -55,8 +55,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF03| O site deve apresentar uma página de histórico(log) de todas coletas e reciclagens realizadas. | Média |
 |RF04| O site deve apresentar funcionalidade de login e cadastro de usuários. | Alta |
 |RF05| O site deve permitir que o usuário solicite uma coleta de lixo reciclável. | Alta |
-|RF06| O site deve conter uma tabela com horários de coleta de lixo por região | Média |
-|RF07| O site deve direcionar informações sobre a venda de cestos seletivos. | Alta |
+|RF06| O site deve conter uma página com disponibilidade para o usuário entrar em contato com a plataforma. | Média |
+|RF07| O site deve informar sobre cestos seletivos e direcionar para compra  | Alta |
 |RF08| O site deve informar os benefícios e requisitos para obtenção do selo verde. | Alta |   
 
 
