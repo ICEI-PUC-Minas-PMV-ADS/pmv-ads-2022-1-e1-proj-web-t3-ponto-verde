@@ -7,13 +7,14 @@ A tela principal do site apresenta as informações sobre o conceito e como func
 A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 <br><br>
 
-![image](https://user-images.githubusercontent.com/100734910/168500443-e88d257e-04ed-49b4-b434-2d538b1bca09.png)
+![image](https://user-images.githubusercontent.com/100734910/175836660-a5ebde9c-1201-4717-afbd-140a758615e0.png)
 
 
 <h4>Requisitos atendidos</h4>
 
 - RF01
 - RNF001
+- RNF002
 - RNF003
 
 <h4>Artefatos da funcionalidade</h4>
@@ -41,6 +42,7 @@ A tela de login permite ao usuario fazer login no site, com a opçao de lembrar 
 
 - RF04
 - RNF001
+- RNF002
 
 <h4>Artefatos da funcionalidade</h4>
 
@@ -69,8 +71,9 @@ Requisitos atendidos
 
 - RF02 
 - RF05 
-- RNF003
 - RNF001
+- RNF002
+- RNF003
 
 <h3>Atefatos da funcionalidade</h3>
 
@@ -83,7 +86,7 @@ Requisitos atendidos
 - Descompacte o arquivo em uma pasta específica;
 - Abra o Visual Studio Code e execute o Live Server;
 - Abra um navegador de Internet e informe a seguinte URL:
-http://localhost:5500/home.html 
+http://localhost:5500/locaisdecoleta.html 
 
 
 <h3> Tela Selo Verde</h3>
@@ -97,6 +100,7 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 
 - RF08
 - RNF001
+- RNF002
 - RNF003
 
 <h4>Artefatos da funcionalidade</h4>
@@ -110,7 +114,7 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 - Descompacte o arquivo em uma pasta específica;
 - Abra o Visual Studio Code e execute o Live Server;
 - Abra um navegador de Internet e informe a seguinte URL:
-http://localhost:5500/home.html 
+http://localhost:5500/seloverde.html 
 
 
 <h3> Tela Cestos Seletivos</h3>
@@ -125,6 +129,7 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 
 - RF07
 - RNF001
+- RNF002
 - RNF003
 
 <h4>Artefatos da funcionalidade</h4>
@@ -132,3 +137,12 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 - cestosseletivos.html
 - cestosseletivos.css
 - cestosseletivos.js
+
+
+<h4>Instruções de acesso</h4>
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/cestosseletivos.html 
