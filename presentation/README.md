@@ -1,3 +1,4 @@
 # Apresentação da Solução
+https://gfaustini.github.io/PontoVerde/index.html
+[Copia_de_Ponto_Verde_slides.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/PontoVerde/files/8993893/Copia_de_Ponto_Verde_slides.pdf)
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
