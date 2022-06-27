@@ -8,17 +8,17 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 
 ## Home Page
 
-CR01
+CT-01
 
-![image](https://user-images.githubusercontent.com/100734910/168500443-e88d257e-04ed-49b4-b434-2d538b1bca09.png)
+![image](https://user-images.githubusercontent.com/100734910/175840938-af50a544-6b19-4d85-9f10-a43ed1a1fc9a.png)
 
 
 ## Login
+
+CT-02
 
 ![image](https://user-images.githubusercontent.com/100742971/173206617-4886c973-2d29-4941-bcff-b8cc1a80e46a.png)
 ![image](https://user-images.githubusercontent.com/100742971/173206626-82706e2a-7a99-4100-a16e-e8c4090bf9c5.png)
@@ -27,12 +27,16 @@ CR01
 
 ## Cadastro
 
+CT-03
+
 ![image](https://user-images.githubusercontent.com/100742971/173206557-69f01a60-03bf-4fa7-b178-2b21c96d826f.png)
 ![image](https://user-images.githubusercontent.com/100742971/173206579-1a85a460-4f62-461e-8d1b-5a50a1de4050.png)
 ![image](https://user-images.githubusercontent.com/100742971/173206591-c7989c46-3c8e-4c2f-8392-168a6f88d9e1.png)
 
 
 ## Contato
+
+CT-04
 
 ![image](https://user-images.githubusercontent.com/100742971/173207219-f01b3c54-53af-4f36-85c0-f69506903816.png)
 ![image](https://user-images.githubusercontent.com/100742971/173207222-208846ee-220f-447f-aaea-4191d3baddeb.png)
@@ -48,16 +52,20 @@ CT-05
 
 ## Cestos Seletivos
 
-CR07
+CT-06
 
-![image](https://user-images.githubusercontent.com/100734910/173262971-407dc719-7825-43e0-9627-27699e5a682e.png)
-![image](https://user-images.githubusercontent.com/100734910/173262921-8b59450a-e6d9-46f0-bc17-37677cd1dd08.png)
-
-
-# Selo Verde
-
-CR08
-
-![image](https://user-images.githubusercontent.com/100734910/173263930-474871e1-bdca-4187-8024-3b029eb01c81.png)
+![image](https://user-images.githubusercontent.com/100734910/175840999-98d676d7-73fc-4b89-92b9-09db7eb8ac17.png)
 
 
+#  Requisitos Selo Verde
+
+CT-07
+
+![image](https://user-images.githubusercontent.com/100734910/175841048-9538e1a2-79f4-4c55-824b-650d42d0ae59.png)
+
+
+#  Locais de Coleta
+
+CT-08
+
+![image](https://user-images.githubusercontent.com/100734910/175841129-f83f4673-e91a-4edc-87f2-7ab7f6469ff3.png)
