@@ -94,7 +94,7 @@ A tela de compra é direcionada para os usuários interessados em conhecer e adq
 ![image](https://user-images.githubusercontent.com/100734910/175835702-090cb1c0-bf21-4960-a020-9ef3bbac0d25.png)
 
 
-### **Tela Selo Verde**
+### **Tela Requisitos Selo Verde**
 
 
 A tela é direcionada para usuários a qual desejam se informarem para obtenção do selo verde.
