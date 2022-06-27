@@ -59,10 +59,10 @@ A tela de cadastro é uma tela criada para os usuários que desejam cadastrar, p
 ![image](https://user-images.githubusercontent.com/100734910/164870317-0e0ca114-f4cb-4455-9a3a-9874f0c0f090.png)
 
 
-### **Tela do Usuário**
+### **Tela Minha Conta**
 
 
-A tela do usuário contém todas as informações cadastradas no sistema. Nela é mostrada o formulário com as informações pessoais, endereços e histórico de coleta.
+A tela contém todas as informações cadastradas no sistema. Nela é mostrada o formulário com as informações pessoais, endereços e histórico de coleta.
 
 
 ![image](https://user-images.githubusercontent.com/100734910/175835733-f667e065-a9c7-461c-b8f4-f703f8a27439.png)
