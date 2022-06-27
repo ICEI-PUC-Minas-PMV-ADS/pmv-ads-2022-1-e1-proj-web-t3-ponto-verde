@@ -178,7 +178,7 @@ Objetivo: testar a funcionalidade.
 Execução das funcionalidades: Funciona, abre nova guia para compras.
 
 
-## Testes Selo Verde:
+## Testes  Requisitos Selo Verde:
 
 Caso de teste: 
 - CT-07
