@@ -206,5 +206,4 @@ A tela de cadastro permite ao usuario fazer o seu cadastro no site, com a opçao
 http://localhost:5500/cadastro.html 
 
 
-![image](https://user-images.githubusercontent.com/100734910/175841423-79d6a393-80a0-4918-97e7-90b1cb247f42.png)
 
