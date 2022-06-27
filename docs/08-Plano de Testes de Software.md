@@ -230,4 +230,31 @@ Objetivo: testar a funcionalidade.
 Execução das funcionalidades: Funcionam, botão direciona para a página seguinte e apresenta locais de coleta.
 
 
+## Testes Minha Conta:
+
+Caso de teste: 
+- CT-09
+
+Requisitos Associados:
+- RF03 O site deve apresentar uma página com o cadastro do usuário e histórico(log) de todas coletas e reciclagens realizadas.
+
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar na página de login 
+5) Realizar login no Site
+
+
+Objetivo: testar a responsividade no smartphone e navegabilidade.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
+
+Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
+Objetivo: testar a funcionalidade.
+- Dados cadastrais aparecendo corretamente
+- Histórico de coleta funcionando corretamente
+
+Execução das funcionalidades: Funcionam.
 
