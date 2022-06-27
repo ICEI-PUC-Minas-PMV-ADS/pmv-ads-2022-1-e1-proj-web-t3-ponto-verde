@@ -146,3 +146,33 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 - Abra o Visual Studio Code e execute o Live Server;
 - Abra um navegador de Internet e informe a seguinte URL:
 http://localhost:5500/cestosseletivos.html 
+
+
+<h3> Tela Agendar Coleta</h3>
+A pagina de agendamento de coleta ultiliza o sistema de localstorage para armazenar os agendamentos, para que posteriormente possam ser exibidas na página do usuário.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/100734910/175840619-074c72cb-f783-4b6f-bbcf-5a8055cf009d.png)
+
+
+<h4>Requisitos atendidos</h4>
+
+- RF05
+- RNF001
+- RNF002
+- RNF003
+
+<h4>Artefatos da funcionalidade</h4>
+
+- agendar.html
+- agendar.css 
+- agendamento.js
+
+
+<h4>Instruções de acesso</h4>
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/agendar.html 
