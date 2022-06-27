@@ -236,3 +236,36 @@ A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 http://localhost:5500/contato.html 
 
 
+
+<h3> Tela Minha Conta</h3>
+A tela apresenta os dados cadastrados do usuário, histórico de coleta e um botão de logout.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/100734910/175849757-12a41ef4-7fe0-4d5d-8da7-e01f4edb7d7b.png)
+
+
+
+<h4>Requisitos atendidos</h4>
+
+- RF03
+- RNF002
+- RNF003
+
+<h4>Artefatos da funcionalidade</h4>
+
+- minhaconta.html
+- minhaconta.css
+- minhaconta.js
+
+
+<h4>Instruções de acesso</h4>
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/minhaconta.html 
+
+
+
+
