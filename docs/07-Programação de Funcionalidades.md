@@ -150,6 +150,7 @@ http://localhost:5500/cestosseletivos.html
 
 <h3> Tela Agendar Coleta</h3>
 A pagina de agendamento de coleta ultiliza o sistema de localstorage para armazenar os agendamentos, para que posteriormente possam ser exibidas na página do usuário.
+A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 <br><br>
 
 ![image](https://user-images.githubusercontent.com/100734910/175840619-074c72cb-f783-4b6f-bbcf-5a8055cf009d.png)
@@ -205,5 +206,33 @@ A tela de cadastro permite ao usuario fazer o seu cadastro no site, com a opçao
 - Abra um navegador de Internet e informe a seguinte URL:
 http://localhost:5500/cadastro.html 
 
+
+<h3> Tela Contato</h3>
+A tela contato possibilita o usuário entrar em contato com os responsáveis pelo site. 
+A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/100734910/175836660-a5ebde9c-1201-4717-afbd-140a758615e0.png)
+
+
+<h4>Requisitos atendidos</h4>
+
+- RF06
+- RNF002
+- RNF003
+
+<h4>Artefatos da funcionalidade</h4>
+
+- contato.html
+- contato.css
+
+
+<h4>Instruções de acesso</h4>
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/contato.html 
 
 
