@@ -212,7 +212,7 @@ A tela contato possibilita o usuário entrar em contato com os responsáveis pel
 A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 <br><br>
 
-![image](https://user-images.githubusercontent.com/100734910/175836660-a5ebde9c-1201-4717-afbd-140a758615e0.png)
+![image](https://user-images.githubusercontent.com/100734910/175842057-db4dd634-b3c4-43e3-88f2-75267aec93c4.png)
 
 
 <h4>Requisitos atendidos</h4>
