@@ -133,6 +133,16 @@ Execução das funcionalidades: Funcionam.
 Caso de teste: 
 - CT-05
 
+Requisitos Associados:
+- RF05 O site deve permitir que o usuário solicite uma coleta de lixo reciclável.
+
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar no botão menu no canto esquerdo da tela
+5) Clicar na opção Agendar Coleta
+
 Objetivo: Testar a funcionalidade.
 - campo Data: ultiliza um imput padrão do tipo "Date" para armazenar a data do agendamento.
 - campo Hora: ultiliza um imput padrão do tipo "Time" para armazenar o horario do agendamento.
@@ -168,7 +178,6 @@ Objetivo: testar a funcionalidade.
 Execução das funcionalidades: Funciona, abre nova guia para compras.
 
 
-
 ## Testes Selo Verde:
 
 Caso de teste: 
@@ -189,4 +198,34 @@ Objetivo: testar a responsividade no smartphone e navegabilidade.
 - Dimensões da navegabilidade (1920 x 1080): responsivo.
 
 Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
+
+## Testes Locais de Coleta:
+
+Caso de teste: 
+- CT-08
+
+Requisitos Associados:
+- RF02 O site deve possuir a funcionalidade de geolocalização, assim como, um mapa com possíveis locais de coleta na região.
+
+Passos:
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página principal
+4) Clicar no botão menu no canto esquerdo da tela
+5) Clicar na opção Locais de Coleta
+
+Objetivo: testar a responsividade no smartphone e navegabilidade.
+- Dimensões smartphone: não responsivo,
+- Dimensões da navegabilidade (1920 x 1080): responsivo.
+
+Execução da responsividade: Navegabilidade responsivo, dimensões de smartphones não responsivos.
+
+Objetivo: testar a funcionalidade.
+- Funcionalidade Geolocalização: Funciona, aparece pontos de coleta.
+- Botão de agendar: Direciona para página de agendamento de coleta.
+
+Execução das funcionalidades: Funcionam, botão direciona para a página seguinte e apresenta locais de coleta.
+
+
 
