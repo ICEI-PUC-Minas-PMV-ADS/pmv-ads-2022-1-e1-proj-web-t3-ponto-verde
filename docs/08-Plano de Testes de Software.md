@@ -145,7 +145,9 @@ Passos:
 
 Objetivo: Testar a funcionalidade.
 - campo Data: ultiliza um imput padrão do tipo "Date" para armazenar a data do agendamento.
-- campo Hora: ultiliza um imput padrão do tipo "Time" para armazenar o horario do agendamento.
+- campo Hora: ultiliza um imput padrão do tipo "Time" para armazenar o horário do agendamento.
+- campo Endereço de Coleta: ultiliza um imput padrão do tipo "Text" para armazenar endereço do agendamento.
+- campo Tipos de Resíduo: ultiliza um imput padrão do tipo "Text" para armazenar tipos de resíduos.
 - Botão de agendamento: Armazena as informações apenas quando ambos os campos estiverem devidamente preenchidos.
 
 Execução: O armazenamendo funciona corretamente. 
