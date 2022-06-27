@@ -176,3 +176,35 @@ A pagina de agendamento de coleta ultiliza o sistema de localstorage para armaze
 - Abra o Visual Studio Code e execute o Live Server;
 - Abra um navegador de Internet e informe a seguinte URL:
 http://localhost:5500/agendar.html 
+
+
+<h3> Tela Cadastro</h3>
+A tela de cadastro permite ao usuario fazer o seu cadastro no site, com a opçao de preencher seus dados pessoais e senha. Logo após os dados ficam armazenados no banco de dados da plataforma.
+
+![image](https://user-images.githubusercontent.com/100734910/175841423-79d6a393-80a0-4918-97e7-90b1cb247f42.png)
+
+
+<h4>Requisitos atendidos</h4>
+
+- RF04
+- RNF002
+- RNF003
+
+<h4>Artefatos da funcionalidade</h4>
+
+- cadastro.html
+- cadastro.css 
+- cadastro.js
+
+
+<h4>Instruções de acesso</h4>
+
+- Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+- Descompacte o arquivo em uma pasta específica;
+- Abra o Visual Studio Code e execute o Live Server;
+- Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/cadastro.html 
+
+
+![image](https://user-images.githubusercontent.com/100734910/175841423-79d6a393-80a0-4918-97e7-90b1cb247f42.png)
+
