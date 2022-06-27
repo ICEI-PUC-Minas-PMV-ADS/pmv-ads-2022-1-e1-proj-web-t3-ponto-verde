@@ -89,7 +89,7 @@ Requisitos atendidos
 http://localhost:5500/locaisdecoleta.html 
 
 
-<h3> Tela Selo Verde</h3>
+<h3> Tela Requisitos Selo Verde</h3>
 A tela apresenta as informações e os requisitos para a obtenção do Selo Verde para empresas.
 A esquerda da tela, a barra de menu demonstra as demais funcionalidades do site.
 <br><br>
