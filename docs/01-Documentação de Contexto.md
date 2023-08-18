@@ -6,7 +6,6 @@ O lixo é um problema que afeta um país como um todo, abrange tanto governo fed
 De acordo com os [dados](https://saneamentobasico.com.br/outros/meio-ambiente/apenas-3-lixo-reciclado/) da Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais 30% de todo o lixo produzido pelo Brasil pode ser reaproveitado, porém apenas 3% é reaproveitado realmente. Isso indica que há espaço para melhorias em como as pessoas e empresas devem lidar com o lixo produzido.
 ## Problema
  O problema que se busca resolver, é a dificuldade de acesso da população a informações sobre reciclagem, sustentabilidade e seus benefícios. Assim como a falta de incentivos, restrição ao transporte de resíduos, falta de acesso aos cestos seletivos e contato direto com empresas que trabalham com com a coleta de resíduos recicláveis.
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
 ## Objetivos
  O objetivo é a criação de um portal de informações que ajude os usuários a direcionar corretamente os resíduos recicláveis e informar  sobre sustentabilidade e consumo consciente.
